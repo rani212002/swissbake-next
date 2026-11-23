@@ -1,0 +1,287 @@
+{
+  "hero_banners": [
+    {
+      "id": "seasonal-specials",
+      "image_url": "https://b2b.swissbake.in/images/WebBanner/Curate%20your%20Seasonal%20Specials%20with%20SwissBake%C2%AE.jpg",
+      "subtitle": "From Everyday Favourites to Festive Specials",
+      "title": "Curate your Seasonal Specials with SwissBake®",
+      "cta_label": "READ MORE",
+      "cta_url": "/blog/festive-bakes-for-seasonal-bakery-menu"
+    },
+    {
+      "id": "classics-to-signature",
+      "image_url": "https://b2b.swissbake.in/images/WebBanner/From%20Classics%20to%20Signature%20Creations.jpg",
+      "subtitle": "Explore Festive Baking Solutions",
+      "title": "From Classics to Signature Creations",
+      "cta_label": "SHOP NOW",
+      "cta_url": "/solution/festive-baking-mixes"
+    }
+  ],
+  "product_tabs": [
+    {
+      "id": "best-featured",
+      "label": "BEST FEATURED",
+      "products": [
+        {
+          "id": "creme-cake-base-vanilla",
+          "slug": "creme-cake-base-vanilla",
+          "name": "Vanilla Crème Cake Base Mix",
+          "image_url": "/images/product-placeholder.svg",
+          "price": null,
+          "weight_kg": null,
+          "description": "SwissBake® Vanilla Crème Cake Base Mix is a premium, Swiss-formulated solution for preparing rich, dense and moist, textured cake bases, muffins and pound cakes.\n\nSwissBake® Vanilla Crème Cake Mix is an ideal choice for any professional baker looking to bake a range of dense cake bases and muffins.",
+          "key_ingredients": "Refined Wheat Flour, Milk Solids, Natural Identical Flavourings",
+          "category_slug": null
+        },
+        {
+          "id": "vanilla-sponge-cake-mix",
+          "slug": "vanilla-sponge-cake-mix",
+          "name": "Swiss Bisquit - Vanilla Cake Mix",
+          "image_url": "/images/product-placeholder.svg",
+          "price": null,
+          "weight_kg": null,
+          "description": "SwissBake® Swiss Bisquit - Vanilla Cake Mix ensures consistent results every time, offering excellent stability and volume, making it perfect for heavily layered and decorated cakes.",
+          "key_ingredients": null,
+          "category_slug": null
+        },
+        {
+          "id": "gluten-free-cake-mix",
+          "slug": "gluten-free-cake-mix",
+          "name": "Gluten Free Cake Mix",
+          "image_url": "/images/product-placeholder.svg",
+          "price": null,
+          "weight_kg": null,
+          "description": "SwissBake® Gluten Free Cake Mix is a go-to solution for baking exceptional gluten-free cakes and pastries.\n\nOur gluten-free flour for cakes is made from natural ingredients and is designed for ease of use with straightforward baking recipes.\n\nNatural Ingredients: Formulated with natural ingredients for superior taste.\nDedicated Facility: Handled exclusively in our gluten-free facility for guaranteed integrity.\n\nSwissBake® Gluten Free Cake Mix is perfect for professional bakers aiming to offer gluten-free delights that meet the highest standards of taste and texture. Elevate your baking with our expertly crafted gluten free cake mix today.",
+          "key_ingredients": null,
+          "category_slug": null
+        },
+        {
+          "id": "ghee-creme-cake-mix",
+          "slug": "ghee-creme-cake-mix",
+          "name": "Ghee Crème Cake Mix",
+          "image_url": "/images/product-placeholder.svg",
+          "price": null,
+          "weight_kg": null,
+          "description": "SwissBake® Ghee Crème Cake Mix brings together Swiss formulation expertise and the traditional richness of ghee—a traditional ingredient deeply rooted in Middle Eastern and South Asian culinary heritage.",
+          "key_ingredients": null,
+          "category_slug": null
+        }
+      ]
+    },
+    {
+      "id": "top-selling",
+      "label": "TOP SELLING",
+      "products": [
+        {
+          "id": "cocoa-cake-mix",
+          "slug": "cocoa-cake-mix",
+          "name": "Crème Cake Mix (Cocoa)",
+          "image_url": "/images/product-placeholder.svg",
+          "price": null,
+          "weight_kg": null,
+          "description": "SwissBake® Crème Cake Mix (Cocoa) is a special mix developed by Swiss experts to produce cakes with a dense, moist and creamy texture.\n\nThe complete mix includes all the necessary ingredients in precise measurements, making it easy to use with only the addition of fresh eggs, oil and water.",
+          "key_ingredients": null,
+          "category_slug": null
+        },
+        {
+          "id": "creme-cake-mix-orange",
+          "slug": "creme-cake-mix-orange",
+          "name": "Crème Cake Mix (Orange)",
+          "image_url": "/images/product-placeholder.svg",
+          "price": null,
+          "weight_kg": null,
+          "description": "Infused with essential orange oil & natural colour.\nVersatile application for muffins, tea cakes & pound cakes.\nImparts a refreshing flavour & dense crumb.",
+          "key_ingredients": null,
+          "category_slug": null
+        },
+        {
+          "id": "butter-creme-cake-mix",
+          "slug": "butter-creme-cake-mix",
+          "name": "Butter Crème Cake Mix",
+          "image_url": "/images/product-placeholder.svg",
+          "price": null,
+          "weight_kg": null,
+          "description": "SwissBake® Butter Crème Cake Mix is a high-performance base mix developed for professional bakers seeking consistent quality, rich buttery flavour, and superior crumb matrix.",
+          "key_ingredients": null,
+          "category_slug": null
+        },
+        {
+          "id": "banana-cake-mix",
+          "slug": "banana-cake-mix",
+          "name": "Banana Cake Mix",
+          "image_url": "/images/product-placeholder.svg",
+          "price": null,
+          "weight_kg": null,
+          "description": "SwissBake® Banana Cake Mix is a convenient mix to prepare egg-based banana flavoured sponges and cakes with a delicious taste and mouthfeel.\n\nFormulated with real banana flour, SwissBake® Banana Cake Mix is ideal for a variety of food service businesses.\n\nKey Features\nMade using real banana flour\nDelicious and moist banana cake\nConsistent volume and texture",
+          "key_ingredients": null,
+          "category_slug": null
+        }
+      ]
+    },
+    {
+      "id": "new-launches",
+      "label": "NEW LAUNCHES",
+      "products": [
+        {
+          "id": "donut-concentrate",
+          "slug": "donut-concentrate",
+          "name": "Egg-Free Donut Concentrate 25",
+          "image_url": "/images/product-placeholder.svg",
+          "price": null,
+          "weight_kg": null,
+          "description": "SwissBake® Egg-Free Donut Concentrate 25 is a specialized, high-performance concentrate formulated to produce soft, light, and evenly aerated yeast-raised donuts.\n\nIt supports efficient handling, dependable proofing, and standardized finish across a wide range of donut formats.",
+          "key_ingredients": "Bicarbonate, (E450(i)) Disodium Diphosphate], Whey Powder (Cow), Enzyme Blend (Amylase (E1100), Xylanase, derived from plant-fungal sources), Nature Identical Flavouring (Vanilla).",
+          "category_slug": null
+        },
+        {
+          "id": "vanilla-muffin-premix",
+          "slug": "vanilla-muffin-premix",
+          "name": "Vanilla Muffin Premix",
+          "image_url": "/images/product-placeholder.svg",
+          "price": null,
+          "weight_kg": null,
+          "description": "It is simple to use, by just changing the amount of water/oil and using additional ingredients like nuts, chocolate chips etc. you can create a wide variety of muffins that appeal to a range of customers.",
+          "key_ingredients": null,
+          "category_slug": null
+        },
+        {
+          "id": "creme-cake-mix-vanilla",
+          "slug": "creme-cake-mix-vanilla",
+          "name": "Crème Cake Mix (Vanilla)",
+          "image_url": "/images/product-placeholder.svg",
+          "price": null,
+          "weight_kg": null,
+          "description": "SwissBake® Crème Cake Mix (Vanilla) — see product page for the full description.",
+          "key_ingredients": null,
+          "category_slug": null
+        }
+      ]
+    }
+  ],
+  "popular_categories": {
+    "title": "Popular CATEGORIES",
+    "subtitle": "Selected categories of most sought-after products from SwissBake®",
+    "items": [
+      {
+        "id": "swissbake-flour",
+        "name": "SPECIALTY FLOURS",
+        "url": "/category/swissbake-flour",
+        "image_url": null
+      },
+      {
+        "id": "sourdough",
+        "name": "SOURDOUGH INGREDIENTS",
+        "url": "/category/sourdough-bread-ingredients",
+        "image_url": null
+      },
+      {
+        "id": "high-fibre",
+        "name": "HIGH-FIBRE BREADS",
+        "url": "/category/high-fiber-bread-mix",
+        "image_url": null
+      },
+      {
+        "id": "pizza",
+        "name": "PIZZA INGREDIENTS",
+        "url": "/category/pizza-baking-ingredients",
+        "image_url": null
+      },
+      {
+        "id": "morning-soft",
+        "name": "MORNING SOFT BREADS",
+        "url": "/category/morning-soft-bread-mix",
+        "image_url": null
+      },
+      {
+        "id": "improvers",
+        "name": "IMPROVERS & CONCENTRATES",
+        "url": "/category/bread-improvers-and-conditioners",
+        "image_url": null
+      }
+    ],
+    "view_all": {
+      "label": "VIEW ALL CATEGORIES",
+      "url": "/category"
+    }
+  },
+  "register_banner": {
+    "title": "DON’T HAVE AN ACCOUNT? REGISTER NOW FOR UNRESTRICTED ACCESS",
+    "cta_label": "CREATE ACCOUNT",
+    "cta_url": "/register"
+  },
+  "applications": {
+    "title": "APPLICATIONS",
+    "subtitle": "Baked products and applications using SwissBake® products.",
+    "items": [
+      {
+        "id": "for-patissiers",
+        "name": "FOR PATISSIERS",
+        "url": "/solution/for-patissiers",
+        "image_url": "https://b2b.swissbake.in/images/ProdCategory/FOR-PATISSIERS111124114641.jpg",
+        "description": "Discover essential products for patisserie bakers! From premium mixes to top-tier baking tools, ensure perfect pastries, desserts, & confections every time"
+      },
+      {
+        "id": "for-pizzerias",
+        "name": "FOR PIZZERIAS",
+        "url": "/solution/for-pizzerias",
+        "image_url": "https://b2b.swissbake.in/images/ProdCategory/FOR-PIZZERIAS070620022520.png",
+        "description": "Explore our improvers, premixes, and flours for pizzerias and restaurants! Elevate your artisan pizzas and enhance the customer experience"
+      },
+      {
+        "id": "festive-baking",
+        "name": "FESTIVE BAKING",
+        "url": "/solution/festive-baking-mixes",
+        "image_url": "https://b2b.swissbake.in/images/ProdCategory/FESTIVE-OFFERINGS070620021623.png",
+        "description": "Discover premium baking ingredients for festive treats! Elevate your holiday baking with our curated selection of fine-quality ingredients"
+      }
+    ],
+    "view_all": {
+      "label": "VIEW ALL APPLICATIONS",
+      "url": "/solution"
+    }
+  },
+  "blog_section": {
+    "title": "BLOG ARTICLES",
+    "subtitle": "Articles covering bakery trends, insights, know-how and science behind baking.",
+    "background_image_url": "https://www.swissbake.in/Content/images/others/about_banner.png",
+    "view_all": {
+      "label": "VIEW ALL BLOGS",
+      "url": "/blogcategory/All"
+    },
+    "read_more_label": "Read More",
+    "posts": [
+      {
+        "id": "festive-bakes-for-seasonal-bakery-menu",
+        "slug": "festive-bakes-for-seasonal-bakery-menu",
+        "title": "Festive Bakes: Ideas to Expand Your Bakery’s Seasonal Menu",
+        "image_url": "https://b2b.swissbake.in/images/Blog/Beyond-Traditional-Festive-Bakes-Practical-Ways-to-Expand-Your-Bakerys-Seasonal-Menu.jpg",
+        "published_at": "2026-10-26",
+        "excerpt": "Discover how professional bakeries can expand their festive menu by combining traditional favourites with contemporary treats. From classic Panettone..."
+      },
+      {
+        "id": "increase-cafe-average-order-value-with-bakery-pairings",
+        "slug": "increase-cafe-average-order-value-with-bakery-pairings",
+        "title": "How Cafés Can Increase Average Order Value with Bakery Pairings",
+        "image_url": "https://b2b.swissbake.in/images/Blog/How-Cafs-Can-Increase-Average-Order-Value-with-Bakery-Pairings.jpg",
+        "published_at": "2026-09-30",
+        "excerpt": "Average order value is an important consideration for cafés looking to increase the value of individual customer transactions. This blog explores how..."
+      },
+      {
+        "id": "high-protein-bread-menu-ideas",
+        "slug": "high-protein-bread-menu-ideas",
+        "title": "High Protein Bread as a Healthy Menu Upgrade",
+        "image_url": "https://b2b.swissbake.in/images/Blog/High-Protein-Bread-as-a-Healthy-Menu-Upgrade.jpg",
+        "published_at": "2026-09-18",
+        "excerpt": "This blog explores how high protein bread can help bakeries and foodservice businesses diversify their menus with protein-focused options. It covers..."
+      },
+      {
+        "id": "matcha-trends-and-menu-innovation",
+        "slug": "matcha-trends-and-menu-innovation",
+        "title": "Matcha Trends and the Rise of Menu Innovation",
+        "image_url": "https://b2b.swissbake.in/images/Blog/Matcha-Trends-How-to-Build-a-More-Innovative-Menu.jpg",
+        "published_at": "2026-08-31",
+        "excerpt": "Explore matcha trends across matcha desserts and beverages and discover how its versatile matcha flavour can support menu innovation and..."
+      }
+    ]
+  }
+}

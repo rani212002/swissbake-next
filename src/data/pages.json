@@ -1,0 +1,510 @@
+{
+  "about": {
+    "seo_title": "About | Bakery Ingredients Manufacturer in India - Swissbake",
+    "title": "About Us",
+    "subtitle": "We provide bakers with innovative solutions to improve the quality and output of their baked products.",
+    "why": {
+      "eyebrow": "WHY CHOOSE US",
+      "title": "Finest Swiss formulated bakery ingredients and convenience products",
+      "image_url": "https://www.swissbake.in/Content/images/others/About_Us_Who_We_Are.png",
+      "paragraphs": [
+        "SwissBake® is a brand of premium quality Swiss formulated bakery ingredients and convenience products.",
+        "Swiss Bake Ingredients Pvt. Ltd. (India) is the manufacturing and marketing arm of Trade ‘n Bake (Switzerland) and is currently handling the production and distribution of SwissBake® products across Asia & Middle East.",
+        "We focus on developing and innovating baking solutions that improve upon the overall product and offerings of our clients.",
+        "With a state of art research facility located in Switzerland and strong backward integration covering sourcing, warehousing and logistics; We are well positioned to fulfil the evolving needs and demands of the bakery industry and offer tailor-made bakery solutions with hi-quality ingredients to passionate bakers across the globe."
+      ]
+    },
+    "vision": {
+      "title": "OUR VISION",
+      "text": "“To be a global leader in developing, producing and supplying bakery ingredients & convenience products.”"
+    },
+    "mission": {
+      "title": "OUR MISSION",
+      "text": "“To provide authentic, natural and healthy baking solutions and convenience products to bakers around the globe.”"
+    },
+    "legacy": {
+      "title": "OUR LEGACY",
+      "subtitle": "Over 40 years of experience in developing baking solutions for the global bakery industry.",
+      "image_url": "https://www.swissbake.in/content/images/others/About_us_Our_Legacy.jpg",
+      "paragraphs": [
+        "Trade ‘n Bake (Switzerland) has a rich and varied experience of over 40 years in developing and customizing bakery solutions for clients across the globe.",
+        "Trade ‘n Bake team of experienced cereal scientists, food technologists and baking experts have spent years in researching and developing bakery products to suit the evolving needs of the bakery industry. Their technical expertise in recipe formulation has been pivotal in developing SwissBake® range of fine bakery ingredients.",
+        "Swiss Bake Ingredients Pvt. Ltd. the manufacturing partner of Trade ‘n Bake, is a part of RAS Group of companies. They represents a heritage of over 30 years in cereal milling and flour technology which is driven by close relationship with farmers and suppliers directly. RAS groups primary role is to manage and optimize the supply chain in order to efficiently produce and market SwissBake® products across Asia and Middle East"
+      ]
+    },
+    "quality": {
+      "title": "QUALITY PROMISE",
+      "subtitle": "True to our Swiss heritage, we maintain highest quality standards through all stages of our business operations to ensure uncompromised service to our clients.",
+      "image_url": "https://www.swissbake.in/Content/images/sbimg/Swiss2.png",
+      "paragraphs": [
+        "Providing high quality products is fundamental to our success. We have always recognized this and have therefore encouraged our employees to maintain a quality conscious culture.",
+        "We believe accreditation of raw material suppliers, following global production standards and efficient management systems are vital in order to deliver quality products consistently. Hence we have not only supported the development and application of improved practices but we also seek to be a leader in the utilization of such systems.",
+        "For us, customer satisfaction is of utmost importance and our experts are always available for guiding our clients whenever they are needed."
+      ]
+    },
+    "clients": {
+      "title": "OUR CLIENTS",
+      "subtitle": "We are proud to be serving these reputed establishments globally.",
+      "logos": [
+        {
+          "name": "Client 1",
+          "image_url": "https://www.swissbake.in/Content/images/sbclients/client1.png"
+        },
+        {
+          "name": "Client 2",
+          "image_url": "https://www.swissbake.in/Content/images/sbclients/client2.png"
+        },
+        {
+          "name": "Client 3",
+          "image_url": "https://www.swissbake.in/Content/images/sbclients/client3.png"
+        },
+        {
+          "name": "Client 4",
+          "image_url": "https://www.swissbake.in/Content/images/sbclients/client4.png"
+        },
+        {
+          "name": "Client 5",
+          "image_url": "https://www.swissbake.in/Content/images/sbclients/client5.png"
+        },
+        {
+          "name": "Client 6",
+          "image_url": "https://www.swissbake.in/Content/images/sbclients/client6.png"
+        },
+        {
+          "name": "Client 7",
+          "image_url": "https://www.swissbake.in/Content/images/sbclients/client7.jpg"
+        },
+        {
+          "name": "Client 8",
+          "image_url": "https://www.swissbake.in/Content/images/sbclients/client8.jpg"
+        },
+        {
+          "name": "Client 9",
+          "image_url": "https://www.swissbake.in/Content/images/sbclients/client9.jpg"
+        },
+        {
+          "name": "Client 10",
+          "image_url": "https://www.swissbake.in/Content/images/sbclients/client10.jpg"
+        },
+        {
+          "name": "Client 11",
+          "image_url": "https://www.swissbake.in/Content/images/sbclients/client11.jpg"
+        },
+        {
+          "name": "Client 12",
+          "image_url": "https://www.swissbake.in/Content/images/sbclients/client12.jpg"
+        },
+        {
+          "name": "Client 13",
+          "image_url": "https://www.swissbake.in/Content/images/sbclients/client13.jpg"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "seo_title": "Contact | Bakery Ingredients Manufacturer in India - Swissbake",
+    "title": "Contact Us",
+    "subtitle": "Have any Questions? Here’s how you can get in touch with us.",
+    "intro": "We continuously work together with our customers and channel partners to create innovative bakery solutions tailored to meet their changing needs and market demands.",
+    "form": {
+      "title": "SEND US A MESSAGE",
+      "state_placeholder": "--State--",
+      "submit_label": "Submit",
+      "states": [
+        "Andaman and Nicobar Islands",
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Chandigarh",
+        "Chhattisgarh",
+        "Dadra and Nagar Haveli",
+        "Daman and Diu",
+        "Delhi",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jammu and Kashmir",
+        "Jharkhand",
+        "Karnataka",
+        "Kenmore",
+        "Kerala",
+        "Lakshadweep",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Narora",
+        "Natwar",
+        "Odisha",
+        "Paschim Medinipur",
+        "Pondicherry",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttar Pradesh",
+        "Uttarakhand",
+        "Vaishali",
+        "West Bengal"
+      ]
+    },
+    "map_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3772.53322642813!2d72.81787777593482!3d18.99621105447114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ce85f4252103%3A0x363347e053bd9707!2sSwiss%20Bake%20Ingredients%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1725951561208!5m2!1sen!2sin",
+    "offices": [
+      {
+        "title": "ASIA & MIDDLE EAST",
+        "address": "Manjrekar Lane, Dr.E.Moses Road, Worli, Mumbai Maharashtra, India",
+        "email": "support@swissbake.in",
+        "website_label": "www.swissbake.in",
+        "website_url": "http://www.swissbake.in/"
+      },
+      {
+        "title": "UK & EUROPEAN UNION",
+        "address": "Junkerschlossweg 9, 4465 Hemmiken Basel-Landschaft, Switzerland",
+        "email": "support@swissbake.in",
+        "website_label": "www.swissbake.ch",
+        "website_url": "http://www.swissbake.ch/"
+      }
+    ],
+    "support": {
+      "title": "CUSTOMER SUPPORT",
+      "phones": [
+        {
+          "label": "+91 022 3529 3529",
+          "whatsapp": "917447331888"
+        },
+        {
+          "label": "+91 98920 53259",
+          "whatsapp": "919892053259"
+        }
+      ],
+      "email": "support@swissbake.in"
+    },
+    "follow": {
+      "title": "FOLLOW US",
+      "links": [
+        {
+          "network": "facebook",
+          "url": "https://www.facebook.com/swissbakemix"
+        },
+        {
+          "network": "twitter",
+          "url": "https://twitter.com/swissbakemix"
+        },
+        {
+          "network": "linkedin",
+          "url": "https://www.linkedin.com/company/3689822?trk=prof-0-ovw-prev_pos"
+        }
+      ]
+    }
+  },
+  "baker_support": {
+    "seo_title": "Baker Support | Swissbake",
+    "title": "BAKER SERVICE & SUPPORT",
+    "subtitle": "Facing any baking challenges ? Get guidance from our team of technical experts & advisors.",
+    "services": {
+      "title": "OUR SERVICES",
+      "quote": "\"Share with us your baking concerns /queries so that our team of experts can guide you with the appropriate solution.\"",
+      "items": [
+        {
+          "title": "INNOVATIVE INGREDIENTS",
+          "text": "Our experts continuously work on researching new bakery ingredients and are well updated on global bakery trends. This helps us to offer the latest and most innovative products in the bakery segment to our customers."
+        },
+        {
+          "title": "CUSTOMER COLLABORATION",
+          "text": "We work closely with bakers and our clients to formulate and manufacture products that cater to the specific demands of their respective markets and enable them to thrive and grow in today’s highly competitive market conditions."
+        },
+        {
+          "title": "TECHNICAL SUPPORT",
+          "text": "Our team of experts can to provide support to our clients in the area of baking process, equipment selection, material sourcing and product formulation in order to optimise or improver their end results."
+        }
+      ]
+    },
+    "form": {
+      "title": "BAKER SUPPORT",
+      "subtitle": "Reach out to us in order to get guidance, opinions and suggestions on your baking needs and challenges from our team of technical and professional bakers",
+      "image_url": "https://www.swissbake.in/content/images/Baker_Support_Inside.png",
+      "fields": {
+        "name": "YOUR NAME",
+        "company": "COMPANY NAME",
+        "country": "COUNTRY",
+        "email": "EMAIL ID",
+        "phone": "CONTACT NO."
+      },
+      "tabs": [
+        {
+          "id": "query",
+          "label": "BAKING QUERY / TIP REQUIRED",
+          "fields": [
+            {
+              "id": "product",
+              "label": "PRODUCT DETAIL OR RECIPE",
+              "type": "text"
+            },
+            {
+              "id": "details",
+              "label": "DESCRIBE THE QUERY / REQUIREMENT IN DETAIL",
+              "type": "textarea",
+              "max": 500
+            }
+          ]
+        },
+        {
+          "id": "project",
+          "label": "NEW PROJECT OR CUSTOMIZED SOLUTION",
+          "fields": [
+            {
+              "id": "product",
+              "label": "PRODUCT BEING BAKED",
+              "type": "text"
+            },
+            {
+              "id": "swissbake_product",
+              "label": "SWISS BAKE PRODUCT NAME",
+              "type": "text"
+            },
+            {
+              "id": "details",
+              "label": "DESCRIBE THE PROJECT OR REQUIRED SOLUTION IN DETAIL",
+              "type": "textarea",
+              "max": 500
+            },
+            {
+              "id": "monthly",
+              "label": "ESTIMATED MONTHLY REQUIREMENT",
+              "type": "textarea",
+              "max": 500
+            },
+            {
+              "id": "timeline",
+              "label": "TIME DURATION FOR US TO DEVELOP THE SOLUTION",
+              "type": "textarea",
+              "max": 500
+            }
+          ]
+        }
+      ],
+      "submit_label": "SEND"
+    }
+  },
+  "legal": {
+    "privacy-policy": {
+      "seo_title": "Privacy | Bakery Ingredients Manufacturer in India - Swissbake",
+      "title": "Privacy Policy",
+      "breadcrumb": "PRIVACY POLICY",
+      "sections": [
+        {
+          "heading": null,
+          "paragraphs": [
+            "Swiss Bake Ingredients Pvt. Ltd. recognises the importance of maintaining your privacy. We value your privacy and appreciate your trust in us. This Privacy Policy applies to current and former visitors to our website and to our online customers. By visiting and/or using our website, you agree to this Privacy Policy. This Privacy Policy explains the information practices that apply to personally identifiable information that we collect about you as an individual, when you visit and/or use our website. Any information that we collect about you while you are visiting or using our website will be handled in accordance with this Privacy Policy and will not be shared except in accordance with this Privacy Policy. This Privacy Policy does not apply to information about you collected by our affiliates or third party websites that may post links or advertisements on or otherwise be accessible from our website www.swissbake.in. The information collected by these affiliates or third party websites is subject to their own privacy policies.",
+            "This section of our Privacy Policy describes the categories of information collected by our website www.swissbake.in. You have the option not to provide information, however, withholding information may prevent you from being able to use some of our website features."
+          ]
+        },
+        {
+          "heading": "INFORMATION COLLECTED AUTOMATICALLY:",
+          "paragraphs": [
+            "Whenever you visit our website, we automatically collect some information about your transactions with us, and your use of our website. For example, we automatically collect your IP address, for our internal use only, such as to help us diagnose problems with our server and administer our website. We also automatically track certain information about your activities on our website such as the type of web browser you are using and click stream data. If you are a registered customer on our website www.swissbake.in, we link this automatically-collected data to the personally identifiable information we collect about you described below. We use this information to do internal research on your interests and to help us better understand and serve you."
+          ]
+        },
+        {
+          "heading": "INFORMATION YOU SEND TO US:",
+          "paragraphs": [
+            "If you choose to provide us with Personal Information, such as by sending us an e-mail or by filling out a form with your Personal Information and submitting it to us through our Website, we collect the Personal Information that you provide to us. For example, if you register or sign up for an account with us, we collect your name, e-mail address, telephone number and password. If you place an order with us, we collect the Personal Information that you provide to us such as your shipping, billing, and payment information. From time-to-time you may be given the opportunity to participate in contests or surveys on our Website. If you participate, we will request certain Personal Information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose the requested information. In addition, we collect your order information and purchase and payment history."
+          ]
+        },
+        {
+          "heading": "COOKIES AND SIMILAR FILES:",
+          "paragraphs": [
+            "Our Website uses “cookies” and files that are similar to cookies. Cookies are alphanumeric identifiers created by your browser at our request and stored in an approved and standardized place on your computer. By transferring these cookies, we assigns you a unique customer code and record locater. Information about your activity on our website can then be included in your customer record, which is stored within the website firewall. When you visit or return to our Website, we read the cookie to identify you as one of our customers and help recall orders or preferences you have selected. The cookie also enables us to recall your past activities, post your account data, and tailor site elements and special offers to you. No Personal Information about you is stored on the cookie. Most Web browsers accept cookies by default, but allow users to reject cookies by changing the browser preferences. If you have set up your browser to reject cookies, some aspects of our Website, including our Shopping Cart, will not work properly."
+          ]
+        },
+        {
+          "heading": "USE AND DISCLOSURE OF INFORMATION:",
+          "paragraphs": [
+            "We use the information that we collect about you to maintain, improve, and administer our website, operate our business, provide products and services that you request, administer your account, inform you about products and services that might be of interest to you, and personalise your online experience. In order to carry out certain business functions, such as order fulfilment, e-mail delivery, or marketing, we sometimes hire other companies to perform services on our behalf. We may disclose personally identifiable information that we collect about you to these companies to enable them to perform these services, but they are required to safeguard the data and are not authorised to use it for any other purpose than completing their contractual requirements. For example, as a part of the normal process of completing your purchase, We may provide your personal data to a third party payment processor, such as PayTM, depending on your chosen method of payment. Please be aware that, because of the limitations of the systems used by some financial institutions, the statement you receive from your credit card or financial institution may show the name of a third party payment processor, such as DirectPay Ltd., instead of or inaddition to the SwissBake® name. In addition, we may share the information we collect with other companies with whom we have joint marketing arrangements. We may also disclose information, including personal information, we collect about you in other circumstances as required or permitted by law."
+          ]
+        },
+        {
+          "heading": "LINKS TO THIRD PARTY PRODUCTS AND SERVICES:",
+          "paragraphs": [
+            "While you are visiting or using the website www.swissbake.in, you may be presented with an opportunity to purchase third party products or services. These products and services are offered and supplied by independent companies not owned or operated by us. If you click on one of the presented offers, you will be redirected to the site of the third party, and any information you provide in response to the offer will be collected and used by the third party and not by us. Information you provide to the third party and any dealings you have with the third party will be governed by the privacy and other policies of that third party."
+          ]
+        },
+        {
+          "heading": "WEBSITE SECURITY:",
+          "paragraphs": [
+            "We maintain physical, electronic, and procedural safeguards designed to help us protect your non-public personal information. For example, we use Secure Socket Layer (SSL) technology to encrypt your credit card information when you purchase products through our website. When you establish an account at www.swissbake.in, you choose a password to help protect your account information. A password is only as strong as you make it: you should select a unique password and keep it safe."
+          ]
+        }
+      ]
+    },
+    "terms-of-use": {
+      "seo_title": "Term Of Use | Bakery Ingredients Manufacturer in India - Swissbake",
+      "title": "Terms Of Use",
+      "breadcrumb": "TERMS OF USE",
+      "sections": [
+        {
+          "heading": null,
+          "paragraphs": [
+            "Welcome to www.swissbake.in (the \"Website\"). This Website is owned and operated by Swiss Bake Ingredients Pvt. Ltd. You understand that your use of this Website constitutes your consent to, and agreement to, abide by the most current version of these terms and conditions (the \"Terms\"). We may at any time revise these terms and conditions by updating the Terms. You agree to be bound by subsequent revisions and agree to review the Terms periodically for changes to the terms and conditions. The most up to date version of the Terms will always be available for your review under the \"Terms of Use\" link that appears at the bottom of the Website."
+          ]
+        },
+        {
+          "heading": "DISCLAIMER",
+          "paragraphs": [
+            "1. All product pictures are for representational purposes only. Actual products may differ from pictures.",
+            "2. Swiss Bake Ingredients Pvt. Ltd does not warrant that product descriptions on the Websites are accurate, complete, reliable, current, or error-free. If a product offered by Swiss Bake Ingredients Pvt. Ltd itself is not as described, your sole remedy is to return it promptly in unused condition.",
+            "3. Unless explicitly stated, Swiss Bake Ingredients Pvt. Ltd is the manufacturer of products listed on the website. All products are manufactured and packaged by Swiss Bake Ingredients Pvt. Ltd.",
+            "4. While our product descriptions are descriptive, we urge all consumers to read the label of the product carefully before use",
+            "5. Swiss Bake Ingredients Pvt. Ltd is liable in case the product that reaches you is beyond its expiry date or if the packaging is damaged.",
+            "6. While we try our best to ensure delivery of products within 6-10 days, there be some delays in event of unforeseen circumstances."
+          ]
+        },
+        {
+          "heading": "IDENTIFICATION",
+          "paragraphs": [
+            "You agree to indemnify and hold Swiss Bake Ingredients Pvt. Ltd and its affiliates, officers, directors, members, shareholders, agents, employees, and licensors harmless from any claim or demand, including attorneys' fees, made by any third party arising out of your violation of these Terms."
+          ]
+        },
+        {
+          "heading": "MODIFICATIONS TO THE WEBSITE",
+          "paragraphs": [
+            "Swiss Bake Ingredients Pvt. Ltd reserves the right to modify or discontinue, temporarily or permanently, all or any portion of the Websites with or without notice. You agree that Swiss Bake Ingredients Pvt. Ltd will not be liable to you or to any third party for any such modification, suspension or discontinuance."
+          ]
+        }
+      ]
+    },
+    "shipping-policy": {
+      "seo_title": "Shipping | Bakery Ingredients Manufacturer in India - Swissbake",
+      "title": "Shipping Policy",
+      "breadcrumb": "SHIPPING POLICY",
+      "sections": [
+        {
+          "heading": null,
+          "paragraphs": [
+            "SwissBake® utilizes third-party shipping services for all purchases made through our website, www.swissbake.in. We do not permit customers to personally collect their orders from our warehouse or office."
+          ]
+        },
+        {
+          "heading": "Shipping Charges",
+          "paragraphs": [
+            "Shipping charges are applicable on all shipments and may vary based on the state, pin code, and order quantity. A minimum shipping charge of INR 600 is applicable to all orders. Additional Out of Delivery Area (ODA) charges may be incurred for pin codes outside our regular serviceable regions. Information regarding these additional charges may not be available at the time of order placement but will be communicated to the customer prior to order confirmation. Additional handling and warehousing charges may also apply on a case-to-case basis."
+          ]
+        },
+        {
+          "heading": "Serviceable Areas",
+          "paragraphs": [
+            "SwissBake®, through our shipping partners, currently services over 11,000 pin codes across India. However, we do not ship to any pin codes in the Andaman & Nicobar Islands and Lakshadweep Islands. Pin codes outside our serviceable area fall under the ODA category, for which additional freight charges of up to INR 1,500 may apply. These ODA charges may not be added to the order at the time of placement; a company representative will contact you to revise the order if such charges are applicable. During lockdown situations or other restrictions, service to some sectors and pin codes may be limited;please check with our support team to confirm whether your pin code is serviceable."
+          ]
+        },
+        {
+          "heading": "Delivery Time",
+          "paragraphs": [
+            "Under normal operating conditions: - All materials in stock are shipped within 2 working days after payment confirmation. - Payment verification may take up to 3 working days depending on the mode of payment. - Shipping transit time varies based on distance from our warehouses. - Average delivery times range from 4-10 working days (excluding Sundays and bank holidays) from the dispatch date. - Delivery times may exceed in special situations or for pin codes that fall into infrequent service areas. - Deliveries can be tracked in real-time using the tracking details provided by us."
+          ]
+        },
+        {
+          "heading": "Payment Policy",
+          "paragraphs": [
+            "The following standard payment options are available at the time of order placement: - Credit/Debit Card - Net Banking - Bank Transfer Additional options such as payment via cheque or purchase against credit may be provided based on contractual terms."
+          ]
+        },
+        {
+          "heading": "Return Policy",
+          "paragraphs": [
+            "Returns are accepted only for materials found defective at the time of delivery or delivered in a damaged condition. For return claims: - Contact our support team via email (support@swissbake.in) or at our customer support number +91 22 3529 3539. - Once return claims are accepted, Swiss Bake Ingredients Pvt Ltd. will bear the cost of return and replace the product at the earliest."
+          ]
+        },
+        {
+          "heading": "Transit Damages",
+          "paragraphs": [
+            "In rare events where materials may be damaged during transit: - It is required that a mention of the damage has been made on the Proof of Delivery (POD)/Lorry Receipt (LR) copy. - Photos of damaged product packets along with LR/POD mentioning damage and details should be sent to our support email id support@swissbake.in within 72 hours (3 working days) of delivery for further processing."
+          ]
+        },
+        {
+          "heading": "Replacement / Refund Policy",
+          "paragraphs": [
+            "Payments made against goods ordered from www.swissbake.in are not eligible for cash refunds. Replacements are subject to evaluation on a case-to-case basis. Any product replacement request or returns sent due to quality or damage-related issues will be reviewed and responded to within 5-7 working days of receipt of products/complaints. Replacement for all acceptable claims will be made within 12-15 working days subject to approval after review under normal operating conditions. For any queries regarding this policy, please contact our customer care number +91 22 3529 3539 or email us at support@swissbake.in."
+          ]
+        },
+        {
+          "heading": "Force Majeure",
+          "paragraphs": [
+            "Swiss Bake Ingredients Pvt. Ltd. shall not be liable for any failure or delay in performing its obligations under this Shipping Policy if such failure or delay is caused by circumstances beyond its reasonable control, including but not limited to natural disasters, civil unrest, government actions, technical failures, or other unforeseen events."
+          ]
+        },
+        {
+          "heading": "Governing Law and Jurisdiction",
+          "paragraphs": [
+            "This Shipping Policy shall be governed by and construed in accordance with the laws of India. Any disputes arising out of this policy shall be subject to the exclusive jurisdiction of the courts in Mumbai."
+          ]
+        },
+        {
+          "heading": "Changes to Shipping Policy",
+          "paragraphs": [
+            "SwissBake® reserves the right to modify this Shipping Policy at any time without prior notice. Changes will be effective immediately upon posting on our website."
+          ]
+        },
+        {
+          "heading": null,
+          "paragraphs": [
+            "For any queries related to this Shipping Policy or your order status, please contact our customer support team via email at support@swissbake.in or call us at +91 22 3529 3539."
+          ]
+        }
+      ]
+    }
+  },
+  "dynamic": {
+    "recipe": {
+      "seo_title": "Recipe | Bakery Ingredients Manufacturer in India - Swissbake",
+      "title": "BAKER RECIPE",
+      "subtitle": "Knowledge base of baker recipes created by our baking experts to amplify your baking possibilities.",
+      "empty": "NO RECIPE FOUND",
+      "recipes": []
+    },
+    "faq": {
+      "seo_title": "FAQ | Bakery Ingredients Manufacturer in India - Swissbake",
+      "title": "FAQ’s",
+      "subtitle": "Here you can find answers to or request solutions for your concerns related to our company and products.",
+      "empty": "NO FAQ FOUND",
+      "categories": [],
+      "faqs": []
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "subtitle": "Existing customers sign in to manage orders, invoices and your account.",
+      "email": "Email ID",
+      "password": "Password",
+      "submit": "Login Now",
+      "alt_text": "New to swissbake?",
+      "alt_link": {
+        "label": "Create Account",
+        "url": "/register"
+      }
+    },
+    "register": {
+      "title": "Create Account",
+      "subtitle": "Register now for unrestricted access to SwissBake® products, pricing and ordering.",
+      "fields": {
+        "name": "Your Name",
+        "company": "Company Name",
+        "email": "Email ID",
+        "phone": "Contact No.",
+        "password": "Password"
+      },
+      "submit": "Create Account",
+      "alt_text": "Already have an account?",
+      "alt_link": {
+        "label": "Login Now",
+        "url": "/login"
+      }
+    }
+  }
+}

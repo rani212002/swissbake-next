@@ -1,0 +1,1417 @@
+{
+  "page": {
+    "title": "BLOG ARTICLES",
+    "subtitle": "Articles covering bakery trends, insights, know-how and science behind baking."
+  },
+  "categories": [
+    {
+      "id": "all",
+      "label": "All",
+      "slug": "all",
+      "seo_title": "Blog Articles | SwissBake"
+    },
+    {
+      "id": "trends",
+      "label": "Trends",
+      "slug": "baking-trend-swissbake-blog",
+      "seo_title": "Bakery Trends | SwissBake Blog"
+    },
+    {
+      "id": "inspiration",
+      "label": "Inspiration",
+      "slug": "baking-inspiration-swissbake-blog",
+      "seo_title": "Baking Inspiration | SwissBake Blog"
+    },
+    {
+      "id": "advice",
+      "label": "Advice",
+      "slug": "baking-advice-swissbake-blog",
+      "seo_title": "Baking Advice | SwissBake Blog"
+    },
+    {
+      "id": "insights",
+      "label": "Insights",
+      "slug": "baking-industry-insights-swissbake-blog",
+      "seo_title": "Baking Industry Insights | SwissBake Blog"
+    },
+    {
+      "id": "featured",
+      "label": "Featured",
+      "slug": "featured-blogs-swissbake",
+      "seo_title": "Featured Blogs | SwissBake"
+    },
+    {
+      "id": "recents",
+      "label": "Recents",
+      "slug": "recent-blogs-swissbake",
+      "seo_title": "Recent Blogs | SwissBake"
+    }
+  ],
+  "recent_count": 12,
+  "posts": [
+    {
+      "id": "festive-bakes-for-seasonal-bakery-menu",
+      "slug": "festive-bakes-for-seasonal-bakery-menu",
+      "title": "Festive Bakes: Ideas to Expand Your Bakery’s Seasonal Menu",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Beyond-Traditional-Festive-Bakes-Practical-Ways-to-Expand-Your-Bakerys-Seasonal-Menu.jpg",
+      "published_at": "2026-10-26",
+      "excerpt": "Discover how professional bakeries can expand their festive menu by combining traditional favourites with contemporary treats. From classic Panettone...",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "increase-cafe-average-order-value-with-bakery-pairings",
+      "slug": "increase-cafe-average-order-value-with-bakery-pairings",
+      "title": "How Cafés Can Increase Average Order Value with Bakery Pairings",
+      "image_url": "https://b2b.swissbake.in/images/Blog/How-Cafs-Can-Increase-Average-Order-Value-with-Bakery-Pairings.jpg",
+      "published_at": "2026-09-30",
+      "excerpt": "Average order value is an important consideration for cafés looking to increase the value of individual customer transactions. This blog explores how...",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "high-protein-bread-menu-ideas",
+      "slug": "high-protein-bread-menu-ideas",
+      "title": "High Protein Bread as a Healthy Menu Upgrade",
+      "image_url": "https://b2b.swissbake.in/images/Blog/High-Protein-Bread-as-a-Healthy-Menu-Upgrade.jpg",
+      "published_at": "2026-09-18",
+      "excerpt": "This blog explores how high protein bread can help bakeries and foodservice businesses diversify their menus with protein-focused options. It covers...",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "matcha-trends-and-menu-innovation",
+      "slug": "matcha-trends-and-menu-innovation",
+      "title": "Matcha Trends and the Rise of Menu Innovation",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Matcha-Trends-How-to-Build-a-More-Innovative-Menu.jpg",
+      "published_at": "2026-08-31",
+      "excerpt": "Explore matcha trends across matcha desserts and beverages and discover how its versatile matcha flavour can support menu innovation and...",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "how-to-reduce-bakery-production-cost-without-losing-quality",
+      "slug": "how-to-reduce-bakery-production-cost-without-losing-quality",
+      "title": "How to Reduce Bakery Production Cost Without Losing Quality",
+      "image_url": "https://b2b.swissbake.in/images/Blog/How-to-Reduce-Bakery-Production-Cost-Without-Losing-Quality.png",
+      "published_at": "2026-07-20",
+      "excerpt": "This blog explores practical ways bakeries can reduce bakery production cost without compromising product quality. Learn how recipe standardization,...",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "how-to-make-korean-mochi-bread",
+      "slug": "how-to-make-korean-mochi-bread",
+      "title": "How to Make Korean Mochi Bread using a Mochi Bread Mix?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/How-to-Make-Korean-Mochi-Bread-using-a-Mochi-Bread-Mix.jpg",
+      "published_at": "2025-12-17",
+      "excerpt": "This guide explains how to make Korean mochi bread using a professional Korean mochi bread mix, delivering the iconic crisp exterior and chewy mochi...",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "dehydrated-sourdough-powder",
+      "slug": "dehydrated-sourdough-powder",
+      "title": "How to Use Dehydrated Sourdough Powders?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/How-to-Dehydrated-Sourdough-Powders.jpg",
+      "published_at": "2025-11-29",
+      "excerpt": "How professional bakeries scale artisan flavour using dehydrated sourdough powders, dough systems, and eggless baking techniques like eggless baking...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "sourdough-over-commercial-yeast",
+      "slug": "sourdough-over-commercial-yeast",
+      "title": "Why Bakers Prefer Sourdough over Commercial Yeast?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Why-Bakers-Prefer-Sourdough-over-Commercial-Yeast.jpg",
+      "published_at": "2025-11-25",
+      "excerpt": "Discover key differences between sourdough and commercial yeast. Learn how fermentation, flavour, texture, shelf life, and clean-label baking impact...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "science-of-eggless-baking",
+      "slug": "science-of-eggless-baking",
+      "title": "The Science of Eggless Baking and Rising Demand for Vegetarian Baked Goods",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Science-of-Eggless-Baking-and-Rising-Demand-for-Vegetarian-Baked-Goods.jpg",
+      "published_at": "2025-10-01",
+      "excerpt": "Explore how professional bakeries are meeting the rising demand for egg-free, vegetarian baked goods through innovation, functional ingredients,...",
+      "categories": [
+        "featured"
+      ],
+      "body": null
+    },
+    {
+      "id": "celebratingbreadinallitsforms%7Cinternationalbreadsday",
+      "slug": "celebratingbreadinallitsforms%7Cinternationalbreadsday",
+      "title": "Celebrating Bread in All Its Forms | International Breads Day",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Celebrating-Bread-in-All-Its-Forms-International-Breads-Day.png",
+      "published_at": "2025-10-16",
+      "excerpt": "Celebrating Bread in All Its Forms | International Breads Day",
+      "categories": [
+        "featured"
+      ],
+      "body": null
+    },
+    {
+      "id": "elevate-your-bakes-with-coffee",
+      "slug": "elevate-your-bakes-with-coffee",
+      "title": "Beyond the Brew: How to Bake with Coffee?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Beyond-the-Brew-How-to-Bake-with-Coffee.jpg",
+      "published_at": "2025-10-01",
+      "excerpt": "Explore baking with coffee — from espresso glazes to mocha, coffee cakes. Perfect flavor infusion tips for cafés, bakeries & pastry chefs.",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "dough-variability-in-pizza-chains",
+      "slug": "dough-variability-in-pizza-chains",
+      "title": "How to Avoid Batch-to-Batch Invariability in Multi-Outlet Pizza Businesses?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/How-to-Avoid-Batch-to-Batch-Variability-in-Multi-Outlet-Pizza-Businesses.jpg",
+      "published_at": "2025-09-11",
+      "excerpt": "Ensure consistent pizza dough across outlets with standardized flours, dough premixes, SOPs, and cold fermentation. Reduce errors & maintain brand...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "dough-improvers-vs-conditioners-key-differences",
+      "slug": "dough-improvers-vs-conditioners-key-differences",
+      "title": "Dough Improvers vs Dough Conditioners: Are They the Same?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Dough-Improvers-vs-Dough-Conditioners-Are-They-the-Same.jpg",
+      "published_at": "2025-09-04",
+      "excerpt": "Confused between dough improver and conditioner? Discover their roles in pizza dough consistency and how MORCOTE® helps professionals.",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "common-pizza-dough-problems-solved",
+      "slug": "common-pizza-dough-problems-solved",
+      "title": "Stretch, Snap or Tear - Troubleshooting Pizza Dough Issues",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Stretch-Snap-or-Tear-Troubleshooting-Pizza-Dough-Issues.jpg",
+      "published_at": "2025-08-23",
+      "excerpt": "Troubleshoot pizza dough issues in professional kitchens. Fix stretch, snap, and tear problems with chef-tested solutions.",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "italian-pizza-sugo",
+      "slug": "italian-pizza-sugo",
+      "title": "What Is An Italian Sugo And The Benefits Of Sugo Powder For Professionals?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/WHAT-IS-AN-ITALIAN-SUGO-AND-THE-BENEFITS-OF-SUGO-POWDER-FOR-PROFESSIONALS.jpg",
+      "published_at": "2025-08-12",
+      "excerpt": "Discover Italian pizza sugo powder — the quick, authentic sauce solution for pizzerias, HoReCa, and QSRs. Consistent taste, ready in under 10 minutes",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "youre-using-the-wrong-flour-for-your-pizza-dough",
+      "slug": "youre-using-the-wrong-flour-for-your-pizza-dough",
+      "title": "5 Signs you’re using the Wrong Flour as your Pizza Ingredients",
+      "image_url": "https://b2b.swissbake.in/images/Blog/5-Signs-youre-using-the-Wrong-Flour-as-your-Pizza-Ingredients.jpg",
+      "published_at": "2025-08-12",
+      "excerpt": "Struggling with inconsistent crusts or poor fermentation? Discover 5 signs you need better pizza flour and how MORCOTE® 00 can transform your dough",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "what-makes-a-pizza-authentic",
+      "slug": "what-makes-a-pizza-authentic",
+      "title": "What Makes a Pizza Authentic? Is it the Skills or the Right Pizza Ingredients?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/What-Makes-a-Pizza-Authentic-Is-it-the-Skills-or-the-Right-Pizza-Ingredients.jpg",
+      "published_at": "2025-08-01",
+      "excerpt": "Explore the secret to authentic pizza - from 00 pizza flour to premium base ingredients. Perfect guide for professional bakers and pizzerias",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "sourdough-as-brand-asset-for-modern-bakeries",
+      "slug": "sourdough-as-brand-asset-for-modern-bakeries",
+      "title": "Sourdough: A Brandable Baking Asset",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Sourdough-A-Brandable-Baking-Asset.jpg",
+      "published_at": "2025-07-21",
+      "excerpt": "Discover how sourdough enhances brand value in baking. With le’sourdo®, craft clean-label, premium breads without complexity—perfect for any scale.",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "sourdough-heritage-to-artisan-baking",
+      "slug": "sourdough-heritage-to-artisan-baking",
+      "title": "The Evolution of Sourdough from Heritage to Artisan Baking",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Evolution-of-Sourdough-from-Heritage-to-Artisan-Baking.jpg",
+      "published_at": "2025-07-14",
+      "excerpt": "Explore how sourdough evolved from ancient baking to modern innovation with le’sourdo® dehydrated sourdough—authentic flavor meets commercial scale.",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "sourdough-vs-yeast",
+      "slug": "sourdough-vs-yeast",
+      "title": "Sourdough vs Yeast | Why Bakers Are Replacing or Blending?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Sourdough-vs-Yeast-Why-Bakers-Are-Replacing-or-Blending.jpg",
+      "published_at": "2025-07-07",
+      "excerpt": "Sourdough vs yeast: From flavor to shelf life, learn why pros are switching to or blending with sourdough using innovative le’sourdo® powders.",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "master-sourdough-baking",
+      "slug": "master-sourdough-baking",
+      "title": "Troubleshooting Sourdough: 8 Common Issues and How to Fix Them?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Troubleshooting-Sourdough-8-Common-Issues-and-How-to-Fix-Them.jpg",
+      "published_at": "2025-07-03",
+      "excerpt": "Struggling with sourdough baking? Discover expert tips to fix flat loaves, gummy crumb, sticky dough, and more—perfect for pros using le’sourdo®.",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "functional-ingredients-in-bakery-mixes",
+      "slug": "functional-ingredients-in-bakery-mixes",
+      "title": "The Role of Functional Ingredients in Bakery Mixes",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Role-of-Functional-Ingredients-in-Bakery-Mixes.jpg",
+      "published_at": "2025-06-12",
+      "excerpt": "Enhance baking results with functional ingredients that improve dough strength, moisture retention, and shelf life in breads and cakes.",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "dehydrated-sourdough-for-artisan-baking",
+      "slug": "dehydrated-sourdough-for-artisan-baking",
+      "title": "Using Dehydrated Sourdough to Add Artisan Flavour in Mass Production",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Using-Dehydrated-Sourdough-to-Add-Artisan-Flavour-in-Mass-Production.jpg",
+      "published_at": "2025-06-04",
+      "excerpt": "Simplify sourdough baking! Use dehydrated sourdough for consistent artisan flavour at scale — clean label, shelf-stable, and easy to use.",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "mastering-high-hydration-doughs",
+      "slug": "mastering-high-hydration-doughs",
+      "title": "Mastering High Hydration Doughs: A Guide for Professional Bakers",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Mastering-High-Hydration-Doughs-A-Guide-for-Professional-Bakers.jpg",
+      "published_at": "2025-05-31",
+      "excerpt": "Learn how to handle high hydration doughs like a pro. Tips, techniques, and ingredient solutions for artisan-style breads in commercial baking.",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "artisan-baking-for-central-kitchens",
+      "slug": "artisan-baking-for-central-kitchens",
+      "title": "Scaling Up Artisanal Recipes for Professional Kitchens Without Losing Authenticity",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Scaling-Up-Artisanal-Recipes-for-Professional-Kitchens-Without-Losing-Authenticity.jpg",
+      "published_at": "2025-05-30",
+      "excerpt": "Learn how to scale up artisanal recipes in central kitchens using smart process controls and bakery science—without losing flavor, texture, or soul.",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "benefits-of-sugo-powder",
+      "slug": "benefits-of-sugo-powder",
+      "title": "What Is An Italian Sugo Powder And The Benefits Of Sugo Powder For Professionals ?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/WHAT-IS-AN-ITALIAN-SUGO-AND-THE-BENEFITS-OF-SUGO-POWDER-FOR-PROFESSIONALS.jpg",
+      "published_at": "2025-04-28",
+      "excerpt": "why Italian sugo is essential for authentic pizza! Explore how MORCOTE® Pizza Sugo Powder offers chefs quick, consistent, and traditional Italian...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "pizza-flour-in-your-pizzeria",
+      "slug": "pizza-flour-in-your-pizzeria",
+      "title": "5 Signs you’re using the Wrong Flour as your Pizza Ingredients",
+      "image_url": "https://b2b.swissbake.in/images/Blog/5-Signs-youre-using-the-Wrong-Flour-as-your-Pizza-Ingredients.jpeg",
+      "published_at": "2025-04-17",
+      "excerpt": "From tearing dough to dense crusts, your pizza base ingredients could be to blame. Find out how SwissBake® 00 Pizza Flour transforms professional...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "authentic-pizza-skills",
+      "slug": "authentic-pizza-skills",
+      "title": "What Makes a Pizza Authentic? Is it the Skills or the Right Pizza Ingredients?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/What-Makes-a-Pizza-Authentic-Is-it-the-Skills-or-the-Right-Pizza-Ingredients.jpeg",
+      "published_at": "2025-04-08",
+      "excerpt": "What makes a pizza truly authentic? Explore the role of 00 pizza flour, premium dough ingredients & expert skills in professional pizza-making",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "flour-selection-for-baking",
+      "slug": "flour-selection-for-baking",
+      "title": "Flour Selection: Choosing the Right Type of Flour for Baking Recipes",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Flour-Selection-Choosing-the-Right-Type-of-Flour-for-Baking-Recipes.jpg",
+      "published_at": "2025-03-21",
+      "excerpt": "Find the best flour for baking! Learn how different types like T00, T45, and T65 impact texture, flavor, and structure in bread, cakes, and pastries.",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "why-protein-matters",
+      "slug": "why-protein-matters",
+      "title": "Why Protein % Matters In Different Types Of Flour?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/WHY-PROTEIN-MATTERS-IN-DIFFERENT-TYPES-OF-FLOUR.jpg",
+      "published_at": "2025-03-12",
+      "excerpt": "Understanding protein levels in bread flour, cake flour, multigrain flour, and more! Learn how it affects texture, rise, and gluten formation in...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "evolution-of-flour",
+      "slug": "evolution-of-flour",
+      "title": "Flour: The Oldest, Yet Most Evolving Ingredient as a Solid Foundation for Baking",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Flour-The-Oldest-Yet-Most-Evolving-Ingredient-as-a-Solid-Foundation-for-Baking.jpg",
+      "published_at": "2025-03-06",
+      "excerpt": "The backbone of baking, flour has evolved into high-performance blends for artisan, commercial, and industrial baking applications.",
+      "categories": [
+        "inspiration"
+      ],
+      "body": null
+    },
+    {
+      "id": "health-benefits-of-sourdough-with-swissbake",
+      "slug": "health-benefits-of-sourdough-with-swissbake",
+      "title": "Health Benefits of Sourdough",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Health-Benefits-of-Sourdough.jpg",
+      "published_at": "2025-02-28",
+      "excerpt": "The health benefits of sourdough and how SwissBake® premix simplifies artisanal baking with rich flavor, better digestion, and perfect texture.",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "science-behind-sourdough-powders",
+      "slug": "science-behind-sourdough-powders",
+      "title": "The Science of Sourdough Powders",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Science-of-Sourdough-Powders.jpg",
+      "published_at": "2025-02-21",
+      "excerpt": "Discover how le’sourdo® sourdough powder enhances flavor, consistency, and efficiency in artisan and industrial baking. Elevate your craft with ease",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "how-sourdough-powders-help-bakers",
+      "slug": "how-sourdough-powders-help-bakers",
+      "title": "How Sourdough Powders Save Time for Professional Bakers?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/How-Sourdough-Powders-Save-Time-for-Professional-Bakers.jpg",
+      "published_at": "2025-02-22",
+      "excerpt": "Discover how sourdough powders streamline baking, ensuring consistency, efficiency, and rich flavor—perfect for professional bakers.",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "sourdough-powder-for-artisan-baking",
+      "slug": "sourdough-powder-for-artisan-baking",
+      "title": "Levain Up with Sourdough Powders: Simplifying Artisan Baking",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Levain-Up-with-Sourdough-Powders-Simplifying-Artisan-Baking.jpg",
+      "published_at": "2025-02-15",
+      "excerpt": "SwissBake® sourdough powder makes artisan baking easier. Achieve authentic sourdough flavors without maintaining a starter",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "sourdough-baking-guide",
+      "slug": "sourdough-baking-guide",
+      "title": "The Basics of Sourdough – A Baker’s Guide",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Basics-of-Sourdough-A-Bakers-Guide.jpg",
+      "published_at": "2025-02-13",
+      "excerpt": "Discover the art of sourdough baking, from making a starter to using sourdough powder for perfect artisan bread. Elevate your baking with SwissBake®",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "role-of-sugar-in-baking",
+      "slug": "role-of-sugar-in-baking",
+      "title": "The Multifaceted Role of Sugar in Baking: Beyond Sweetness",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Multifaceted-Role-of-Sugar-in-Baking-Beyond-Sweetness.png",
+      "published_at": "2025-01-24",
+      "excerpt": "Discover the multifaceted role of sugar in baking. From enhancing moisture and texture to contributing to browning and flavor development,...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "master-dough-hydration",
+      "slug": "master-dough-hydration",
+      "title": "The Science of Hydration: How does Dough Hydration Levels Impact Bread Quality?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Science-of-Hydration-How-does-Dough-Hydration-Levels-Impact-Bread-Quality.png",
+      "published_at": "2025-01-18",
+      "excerpt": "Discover how dough hydration levels affect bread quality. Learn the science behind hydration and how SwissBake® flour and bread mix enhance baking...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "custard-powder-and-creams",
+      "slug": "custard-powder-and-creams",
+      "title": "The Science of Custard Powder and Creams",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Science-of-Custard-Powder-and-Creams.png",
+      "published_at": "2025-01-08",
+      "excerpt": "Master the art of custard powders and creams. Explore the perfect balance of ingredients for rich, silky desserts with ease and precision.",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "snow-sugar",
+      "slug": "snow-sugar",
+      "title": "Snow Sugar: A Must-Have Festive Baking Ingredient for Bakers",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Snow-Sugar-A-Must-Have-Festive-Baking-Ingredient-for-Bakers.png",
+      "published_at": "2024-12-16",
+      "excerpt": "Add elegance to festive desserts with SwissBake® Snow Sugar. Bake-stable, freeze-stable, and humidity-resistant for a flawless finish on any treat.",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "plum-cake-premix-vs-traditional-baking",
+      "slug": "plum-cake-premix-vs-traditional-baking",
+      "title": "A Plum Cake Premix VS. Traditional Methods: Which is Best for Your Bakery?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/A-Plum-Cake-Premix-VS-Traditional-Methods-Which-is-Best-for-Your-Bakery.png",
+      "published_at": "2024-12-10",
+      "excerpt": "Discover the benefits of plum cake premix vs traditional baking. Ensure consistent, rich, and festive cakes with efficient solutions for professional...",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "role-of-enzymes-in-dough",
+      "slug": "role-of-enzymes-in-dough",
+      "title": "The Role of Enzymes in Dough Strength and Elasticity",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Role-of-Enzymes-in-Dough-Strength-and-Elasticity.jpg",
+      "published_at": "2024-11-14",
+      "excerpt": "Learn how amylase, protease, and lipase enhance dough elasticity, improve texture, and balance gluten for perfect bakes.",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "bomboloni-donut-guide-swissbake-mix",
+      "slug": "bomboloni-donut-guide-swissbake-mix",
+      "title": "Bomboloni vs. Donuts vs. Berliners: What Are the Differences?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Bomboloni-vs-Donuts-vs-Berliners-What-Are-the-Differences.jpg",
+      "published_at": "2024-09-19",
+      "excerpt": "Dive into the differences between Bomboloni, Donuts, and Berliners! SwissBake® Perfect-Raised Donut Mix helps you achieve consistently delicious,...",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "bombolonis-using-a-donut-mix",
+      "slug": "bombolonis-using-a-donut-mix",
+      "title": "MASTERING BOMBOLONIS USING A DONUT MIX",
+      "image_url": "https://b2b.swissbake.in/images/Blog/MASTERING-BOMBOLONIS-USING-A-DONUT-MIX.png",
+      "published_at": "2024-08-28",
+      "excerpt": "Master Bomboloni with ease using SwissBake® Perfect-Raised Donut Mix, ensuring consistent, fluffy texture and rich fillings every time. Elevate your...",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "the-role-of-butter-in-laminated-pastries",
+      "slug": "the-role-of-butter-in-laminated-pastries",
+      "title": "The Role of Butter in Laminated Pastries",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Role-of-Butter-in-Laminated-Pastries.jpg",
+      "published_at": "2024-07-28",
+      "excerpt": "Discover how butter creates the perfect flaky layers in laminated pastry dough. Learn the science, techniques, and best practices for professional...",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "master-french-baking-professional-mixes",
+      "slug": "master-french-baking-professional-mixes",
+      "title": "Master French Baking with Professional Baking Mixes",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Master-French-Baking-with-Professional-Baking-Mixes.jpg",
+      "published_at": "2024-07-12",
+      "excerpt": "Discover essential French baking techniques and use professional baking mixes to create perfect croissants, macarons, and more with SwissBake®....",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "french-laminated-pastry-doughs",
+      "slug": "french-laminated-pastry-doughs",
+      "title": "TOP 5 FRENCH LAMINATED PASTRY DOUGHS TO MASTER",
+      "image_url": "https://b2b.swissbake.in/images/Blog/TOP-5-FRENCH-LAMINATED-PASTRY-DOUGHS-TO-MASTER.jpg",
+      "published_at": "2024-07-04",
+      "excerpt": "Discover the art of French laminated pastry doughs: Pâte Feuilletée, Croissant Dough, Pâte Levée Feuilletée, and more. Perfect your baking with our...",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "innovative-uses-of-waffle-cones",
+      "slug": "innovative-uses-of-waffle-cones",
+      "title": "Innovative Waffle Cones in Culinary with Waffle Cone Mix",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Innovative-Uses-of-Waffle-Cones-Waffle-Cone-Mixes-in-the-Culinary-Industry-SwissBake.jpg",
+      "published_at": "2024-05-21",
+      "excerpt": "Exploring the innovative uses of waffle cone mixes and how a waffle cone premix is an effective solution for gourmet ice cream parlours, soft serve...",
+      "categories": [
+        "inspiration"
+      ],
+      "body": null
+    },
+    {
+      "id": "what-are-viennese-pastries",
+      "slug": "what-are-viennese-pastries",
+      "title": "WHAT ARE VIENNOSERIES? A PÂTISSIER’S ESSENTIAL GUIDE",
+      "image_url": "https://b2b.swissbake.in/images/Blog/WHAT-ARE-VIENNOSERIES-A-PTISSIERS-ESSENTIAL-GUIDE.jpg",
+      "published_at": "2024-04-20",
+      "excerpt": "Explore the world of viennoseries aka Viennese pastries along with it’s globally popular types, making it a must-read for pâtissiers and professional...",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "brownie-vs-blondie",
+      "slug": "brownie-vs-blondie",
+      "title": "Brownies vs. Blondies: Key Differences and Baker's Insights",
+      "image_url": "https://b2b.swissbake.in/images/Blog/VANILLA-BLONDIE-OR-CHOCOLATE-BROWNIE-BAKERS-INSIGHTS-ON-SIMILARITIES-DIFFERENCES.jpg",
+      "published_at": "2024-04-10",
+      "excerpt": "An insightful article on the differences & similarities between brownie vs blondie!",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "must-have-flour-as-bakery-essentials",
+      "slug": "must-have-flour-as-bakery-essentials",
+      "title": "The Must Have Flours as your Bakery Essentials!",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-must-have-flours-as-your-bakery-Essentials.jpg",
+      "published_at": "2024-03-25",
+      "excerpt": "Explore the essential flour types for professional baking mastery and discover their diverse applications in creating exquisite pastries, artisan...",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "different-types-of-gluten-free-flours",
+      "slug": "different-types-of-gluten-free-flours",
+      "title": "Baking With Different Types Of Gluten-Free Flours",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Baking-With-Different-Types-Of-Gluten-Free-Flours.jpg",
+      "published_at": "2024-02-22",
+      "excerpt": "Explore gluten-free baking with our guide! From millet to almond flour, discover tips & SwissBake®'s mixes for perfect treats. Elevate your baking...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "insight-of-red-velvet-crumbs",
+      "slug": "insight-of-red-velvet-crumbs",
+      "title": "The Iconic Crumb Of Red Velvet: A Bakers’ Insight",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Iconic-Crumb-Of-Red-Velvet-A-Bakers-Insight.jpg",
+      "published_at": "2024-02-15",
+      "excerpt": "Explore the iconic crumb of red velvet with a bakers' insight. Uncover secrets, techniques, and passion in crafting this beloved dessert. Elevate...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "baking-powder-vs-baking-soda",
+      "slug": "baking-powder-vs-baking-soda",
+      "title": "Baking Powder vs Baking Soda: Know the Difference! | SwissBake®",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Baking-Powder-VS-Baking-Soda-Know-the-Difference.jpg",
+      "published_at": "2024-02-02",
+      "excerpt": "For successful bakery results, precision is paramount; understand the difference between baking powder VS baking soda – the core baking ingredients!",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "honey-cake-layering",
+      "slug": "honey-cake-layering",
+      "title": "Honey Cake Layering: Art or Science? | SwissBake®",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Mastery-of-Layering-Honey-Cakes-Artful-Skill-or-Science.jpg",
+      "published_at": "2024-01-13",
+      "excerpt": "Explore the mastery of layering honey cakes & SwissBake®'s innovative BeeHoney Cake Mix. Craft with ease & tradition!",
+      "categories": [
+        "featured"
+      ],
+      "body": null
+    },
+    {
+      "id": "health-benefits-of-sourdough",
+      "slug": "health-benefits-of-sourdough",
+      "title": "5 Health Benefits of Sourdough | SwissBake®",
+      "image_url": "https://b2b.swissbake.in/images/Blog/5-Health-Benefits-of-Sourdough.jpg",
+      "published_at": "2024-01-06",
+      "excerpt": "Is real sourdough truly healthy or just a trend? Let’s explore & understand its nutritional benefits for better health!",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "baking-best-practices",
+      "slug": "baking-best-practices",
+      "title": "Do You Follow the Best Practices in Baking?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Do-You-Follow-the-Best-Practices-in-Baking.jpg",
+      "published_at": "2023-12-29",
+      "excerpt": "Mastering the art requires a blend of best practices & honed skills. Understanding and implementing these fundamental elements can elevate not just...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "festive-bakery-trends-2023",
+      "slug": "festive-bakery-trends-2023",
+      "title": "7 Bakery Trends to Boost your Business this Festive Season",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Festive-Bakery-Trends-2023.jpg",
+      "published_at": "2023-10-28",
+      "excerpt": "The festive bakery trends of 2024 are a celebration of creativity, sustainability, and a blend of cultures. Read more about the festive bakery trends.",
+      "categories": [
+        "inspiration"
+      ],
+      "body": null
+    },
+    {
+      "id": "festive-fruit-cake-trends",
+      "slug": "festive-fruit-cake-trends",
+      "title": "The Tale of Festive Fruit Cakes: Traditions & Trends",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Tale-of-Festive-Fruit-Cakes-Traditions-Trends.jpg",
+      "published_at": "2023-10-19",
+      "excerpt": "The tradition of fruit cakes can be traced back to ancient Rome, where they were considered a symbol of good luck and prosperity. Read more!",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "waffle-wonderland-sweet-savoury-toppings",
+      "slug": "waffle-wonderland-sweet-savoury-toppings",
+      "title": "Waffle Wonderland: 7 Fun Ways to Elevate Your Waffle Game",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Waffle-Wonderland-Sweet-Savoury-Toppings-Flavours.jpg",
+      "published_at": "2023-10-12",
+      "excerpt": "From sweet to savory, from traditional to exotic, the possibilities are endless. let's explore some waffle topping and pairing inspirations:",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "crafting-the-perfect-waffle",
+      "slug": "crafting-the-perfect-waffle",
+      "title": "Crafting the Perfect Waffle: Art, Science or the Right Mix?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Crafting-the-Perfect-Waffle-An-Art-Science-or-the-Right-Mix.jpg",
+      "published_at": "2023-10-06",
+      "excerpt": "Discover the Secrets Behind Crafting the Perfect Waffle – Learn the Science of Batter Consistency, and Meet SwissBake® for Consistently Delicious...",
+      "categories": [
+        "featured"
+      ],
+      "body": null
+    },
+    {
+      "id": "crafting-perfect-waffles",
+      "slug": "crafting-perfect-waffles",
+      "title": "Crafting Perfect Waffles: SwissBake® Mixes & Waffle Mastery",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Waffle-Perfection-Origins-Evolution-Secrets.jpg",
+      "published_at": "2023-09-28",
+      "excerpt": "Discover the evolution of waffles from traditional treats to modern delights. Learn how to maintain consistent quality with SwissBake® Waffle Mixes,...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "crafting-pizza-morcote-aromatic",
+      "slug": "crafting-pizza-morcote-aromatic",
+      "title": "Crafting Pizza Excellence: Morcote 00 Flour & AROMA-tic Duo",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Morcote-00-Flour-AROMA-tic-The-Unbeatable-Duo-Transforming-the-Pizza-Experience.jpg",
+      "published_at": "2023-09-16",
+      "excerpt": "Unlock the Artistry of Pizza Making - SwissBake® Morcote 00 Flour & Aroma-Tic. Elevate Flavors & Textures for an Authentic, Professional-Grade Pizza...",
+      "categories": [
+        "featured"
+      ],
+      "body": null
+    },
+    {
+      "id": "science-of-pizza-making",
+      "slug": "science-of-pizza-making",
+      "title": "The Art & Science of Perfect Pizza Dough | SwissBake®",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Science-of-Pizza-Craftmanship.jpg",
+      "published_at": "2023-09-09",
+      "excerpt": "Discover the art and science behind perfect pizza dough using Type 00 Flour. Explore protein elegance, hydration harmony, and the versatility of...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "beyond-basic-brownies",
+      "slug": "beyond-basic-brownies",
+      "title": "Beyond Basic Brownies | SwissBake®",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Beyond-Basic-Brownies.jpg",
+      "published_at": "2023-08-30",
+      "excerpt": "7 Innovative Brownie Recipes by SwissBake®",
+      "categories": [
+        "inspiration"
+      ],
+      "body": null
+    },
+    {
+      "id": "decoding-brownie-textures",
+      "slug": "decoding-brownie-textures",
+      "title": "Decoding Brownie Textures : Fudgy, Cakey, and More",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Decoding-Brownie-Textures.jpg",
+      "published_at": "2023-08-18",
+      "excerpt": "Discover the origins of brownies, their evolving popularity, and essential baking techniques for creating fudgy, cakey, chewy, and gooey textures...",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "embrace-the-essence-of-swiss-baking",
+      "slug": "embrace-the-essence-of-swiss-baking",
+      "title": "Embrace The Essence Of Swiss Baking",
+      "image_url": "https://b2b.swissbake.in/images/Blog/EMBRACE-THE-ESSENCE-OF-SWISS-BAKING.jpg",
+      "published_at": "2023-08-01",
+      "excerpt": "A celebration of Swiss excellence and Swiss baking on Swiss National Day",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "how-much-chocolate-is-too-much-chocolate",
+      "slug": "how-much-chocolate-is-too-much-chocolate",
+      "title": "How Much Chocolate Is Too Much Chocolate?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/How-Much-Chocolate-Is-Too-Much-Chocolate.jpg",
+      "published_at": "2023-07-28",
+      "excerpt": "SwissBake® brings you exquisite Hand-Crafted All-Treats Chocolate Recipes. Elevate your culinary artistry with expert tips, stunning presentations,...",
+      "categories": [
+        "inspiration"
+      ],
+      "body": null
+    },
+    {
+      "id": "craft-of-chocolate-flavouring",
+      "slug": "craft-of-chocolate-flavouring",
+      "title": "The Chocolatiers’ Craft of Chocolate Flavouring",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Chocolatiers-Craft-of-Chocolate-Flavouring.jpg",
+      "published_at": "2023-07-20",
+      "excerpt": "A chocolatiers’ guide on the world of classic, unique & trending chocolate pairings",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "the-creative-art-of-chocolate-tempering",
+      "slug": "the-creative-art-of-chocolate-tempering",
+      "title": "The Creative Art of Chocolate Tempering",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Creative-Art-of-Chocolate-Tempering.jpg",
+      "published_at": "2023-07-07",
+      "excerpt": "A professional chocolatiers’ guide on the science and art of tempering chocolate",
+      "categories": [
+        "inspiration"
+      ],
+      "body": null
+    },
+    {
+      "id": "four-magnifique-florentine-recipes",
+      "slug": "four-magnifique-florentine-recipes",
+      "title": "Magnifique Florentines: A French Delight",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Magnifique-Florentines-A-French-Delight.jpg",
+      "published_at": "2023-06-23",
+      "excerpt": "Bringing a touch of French flair with exquisite Florentine creations!",
+      "categories": [
+        "inspiration"
+      ],
+      "body": null
+    },
+    {
+      "id": "exploring-the-world-of-pastry-doughs",
+      "slug": "exploring-the-world-of-pastry-doughs",
+      "title": "The World of Pastry Doughs : A Baker's Guide",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-World-of-Pastry-Doughs.jpg",
+      "published_at": "2023-06-05",
+      "excerpt": "Mastering various pastry doughs is vital for professional bakers and pastry chefs. This article explores their characteristics, preparation...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "sugar-art-decor-inspiration",
+      "slug": "sugar-art-decor-inspiration",
+      "title": "Intricate & Delicate: The Art of Sugar Décor",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Intricate-Delicate-The-Art-of-Sugar-Dcor.jpg",
+      "published_at": "2023-05-29",
+      "excerpt": "A Technical Guide on Sugar Décor in Professional Baking",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "bloom-your-springtime-baking",
+      "slug": "bloom-your-springtime-baking",
+      "title": "Bloom your Springtime Baking with SwissBake® Innovations",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Bloom-your-Springtime-Baking.jpg",
+      "published_at": "2023-05-15",
+      "excerpt": "Explore vibrant spring flavors and innovative techniques to enhance your baking! Discover seasonal fruits, floral designs, and trends to bloom your...",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "spice-up-your-professional-baking",
+      "slug": "spice-up-your-professional-baking",
+      "title": "Spice-Up your Professional Baking!",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Spice-Up-your-Professional-Baking.jpg",
+      "published_at": "2023-05-08",
+      "excerpt": "A professional bakers’ guide for sugar, spice & everything nice in baking",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "unlocking-the-potential-role-of-herbs-in-professional-baking",
+      "slug": "unlocking-the-potential-role-of-herbs-in-professional-baking",
+      "title": "Unlocking the Potential of Herbs in Professional Baking",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Unlocking-the-Potential-of-Herbs-in-Professional-Baking.jpg",
+      "published_at": "2023-04-27",
+      "excerpt": "Discover how to elevate your baked goods to the next level with the infusion of herbs! Our blog delves into the world of baking with herbs, exploring...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "guide-to-bake-with-high-fiber-and-protein-ingredients",
+      "slug": "guide-to-bake-with-high-fiber-and-protein-ingredients",
+      "title": "From Flours to Seeds: A Baker’s Guide to High Fiber and Protein",
+      "image_url": "https://b2b.swissbake.in/images/Blog/From-Flours-to-Seeds-A-Bakers-Guide-to-Baking-with-High-Fiber-Protein-Ingredients.jpg",
+      "published_at": "2023-04-21",
+      "excerpt": "Key factors to consider during healthy baking with protein-rich & high fiber ingredients in traditional bakery products",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "bake-right-and-bake-healthy",
+      "slug": "bake-right-and-bake-healthy",
+      "title": "Bake Right & Bake Healthy: Trends in Healthy Baking",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Bake-Right-Bake-Healthy-Trends-in-Healthy-Baking.jpg",
+      "published_at": "2023-04-05",
+      "excerpt": "Discover healthy baking trends! Learn to incorporate nutritious ingredients for delicious, guilt-free treats everyone will love",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "eight-sweet-and-savory-waffle-licious-recipes",
+      "slug": "eight-sweet-and-savory-waffle-licious-recipes",
+      "title": "8 Sweet and Savory Waffle-licious Recipes",
+      "image_url": "https://b2b.swissbake.in/images/Blog/8-Sweet-and-Savory-Waffle-licious-Recipes.jpg",
+      "published_at": "2023-03-22",
+      "excerpt": "Enjoy 8 delicious waffle recipes blending sweet and savory flavors! Perfect for any meal, these dishes will elevate your waffle game",
+      "categories": [
+        "inspiration"
+      ],
+      "body": null
+    },
+    {
+      "id": "summer-baking-tips-for-professionals",
+      "slug": "summer-baking-tips-for-professionals",
+      "title": "Summer Heat Challenges: Tips for Professional Bakers",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Surviving-the-Summer-Heat-Challenges-Faced-by-Professional-Bakers-and-How-to-Overcome-Them.jpg",
+      "published_at": "2023-03-02",
+      "excerpt": "Summer can pose unique challenges for professional bakers & confectioners. In this blog article, we will explore the common challenges faced by...",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "bake-your-way-with-red-velvet-feast",
+      "slug": "bake-your-way-with-red-velvet-feast",
+      "title": "Bake Your Way to Sweet Success with a Red-Velvet Feast",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Bake-Your-Way-to-Sweet-Success-with-a-Red-Velvet-Feast.jpg",
+      "published_at": "2023-02-10",
+      "excerpt": "Indulge in a red-velvet feast! From cakes to pastries, learn to bake vibrant, sweet treats that will impress and satisfy",
+      "categories": [
+        "inspiration"
+      ],
+      "body": null
+    },
+    {
+      "id": "ways-to-handle-bakery-wastage",
+      "slug": "ways-to-handle-bakery-wastage",
+      "title": "Ways to Handle Bakery Wastage with SwissBake® Solutions",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Ways-to-Tackle-Minimize-FoodBakery-Wastage-in-the-Bakery-Business.jpg",
+      "published_at": "2023-01-31",
+      "excerpt": "An insightful article about an overview of bakery wastage and its key aspects focusing on ways to minimize bakery wastage",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "exploring-the-diversity-of-german-breads-a-guide-to-professional-bakers",
+      "slug": "exploring-the-diversity-of-german-breads-a-guide-to-professional-bakers",
+      "title": "A Professional Baker's Guide to German Breads",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Exploring-the-diversity-of-German-Breads-A-guide-to-professional-bakers.jpg",
+      "published_at": "2023-01-19",
+      "excerpt": "A guide for professional bakers on German breads and their unique traits. Master authentic recipes with the right ingredients and traditional...",
+      "categories": [
+        "inspiration"
+      ],
+      "body": null
+    },
+    {
+      "id": "choosing-the-right-flour-for-your-baked-products",
+      "slug": "choosing-the-right-flour-for-your-baked-products",
+      "title": "Choosing the Right Flour for your Baked Products | SwissBake®",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Choosing-the-Right-Flour-for-your-Baked-Products.png",
+      "published_at": "2022-12-22",
+      "excerpt": "Discover how selecting the perfect flour impacts your baking success! Learn about professional vs. regular flours & why SwissBake® is your go-to...",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "ingredients-to-bake-artisan-baguette-using-swissbake-aroma-tic-active-sourdough-starter",
+      "slug": "ingredients-to-bake-artisan-baguette-using-swissbake-aroma-tic-active-sourdough-starter",
+      "title": "4 Ingredients for Artisan Baguette with Sourdough Starter",
+      "image_url": "https://b2b.swissbake.in/images/Blog/4-Ingredients-to-Bake-artisan-baguette-using-SwissBake-AROMA-TIC---Active-Sourdough-Starter.jpg",
+      "published_at": "2019-02-19",
+      "excerpt": "Baking artisanal baguettes using Aroma-tic will give you a traditional French bread with excellent flavour, rustic aroma and a crunchy golden crust...",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "six-bakery-trends-to-boost-your-business-this-festive-season",
+      "slug": "six-bakery-trends-to-boost-your-business-this-festive-season",
+      "title": "6 Bakery Trends to Boost your Business this Festive Season",
+      "image_url": "https://b2b.swissbake.in/images/Blog/6-Bakery-Trends-to-Boost-your-Business-this-Festive-Season.png",
+      "published_at": "2022-12-19",
+      "excerpt": "Unlock the potential of your bakery this festive season! Discover six trending ideas to attract customers, enhance offerings, and increase sales",
+      "categories": [
+        "featured"
+      ],
+      "body": null
+    },
+    {
+      "id": "french-up-your-perfect-macaron",
+      "slug": "french-up-your-perfect-macaron",
+      "title": "French Up your Perfect Macaron",
+      "image_url": "https://b2b.swissbake.in/images/Blog/French-Up-your-Perfect-Macaron-.jpg",
+      "published_at": "2022-10-20",
+      "excerpt": "Master French macarons with expert tips! Create colorful, delicate treats with delightful flavors and fillings that impress everyone",
+      "categories": [
+        "featured"
+      ],
+      "body": null
+    },
+    {
+      "id": "bakers-math-percentage-method-and-calculator",
+      "slug": "bakers-math-percentage-method-and-calculator",
+      "title": "Baker's Percentage: Everything You Need to Know",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Bakers-Percentage-Everything-You-Need-to-Know.jpg",
+      "published_at": "2022-06-15",
+      "excerpt": "The baker's percentage is a vital tool for precise baking! Learn how to calculate ingredient ratios, scale recipes easily, and achieve consistent...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "swissbake-celebrates-10-successful-years-of-innovation",
+      "slug": "swissbake-celebrates-10-successful-years-of-innovation",
+      "title": "SwissBake® Turns 10, Celebrating A Decade Dedicated To Innovation",
+      "image_url": "https://b2b.swissbake.in/images/Blog/SwissBake-Turns-10-Celebrating-A-Decade-Dedicated-To-Innovation.jpg",
+      "published_at": "2022-04-22",
+      "excerpt": "Join SwissBake® as we celebrate a decade of excellence and innovation in bakery ingredients. Discover our journey and commitment to quality and...",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "reasons-why-patties-require-potato-buns-to-make-perfect-burgers",
+      "slug": "reasons-why-patties-require-potato-buns-to-make-perfect-burgers",
+      "title": "5 Features that make Potato Buns a great bun for your Burgers",
+      "image_url": "https://b2b.swissbake.in/images/Blog/5-Features-that-make-Potato-Buns-a-great-bun-for-your-Burgers.png",
+      "published_at": "2021-03-26",
+      "excerpt": "5 reasons why your patties require potato buns to make the perfect burgers",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "how-to-prepare-for-an-uncertain-festive-demand",
+      "slug": "how-to-prepare-for-an-uncertain-festive-demand",
+      "title": "How to Prepare for an Uncertain Festive Demand",
+      "image_url": "https://b2b.swissbake.in/images/Blog/How-to-Prepare-for-an-Uncertain-Festive-Demand.jpg",
+      "published_at": "2020-10-27",
+      "excerpt": "A brief look at some of the challenges bakers will face this season. SwisBake's advice on how to prepare for an uncertain festive demand.",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "learnings-from-covid-pandemic-on-how-to-build-a-stronger-bakery-business",
+      "slug": "learnings-from-covid-pandemic-on-how-to-build-a-stronger-bakery-business",
+      "title": "Building a Stronger Bakery Business Post COVID-19",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Learnings-from-COVID-19-pandemic-to-build-a-stronger-bakery-business.jpeg",
+      "published_at": "2020-07-14",
+      "excerpt": "Learnings from COVID-19 pandemic on how to to build a stronger bakery business? Bakers need to understand the impact of current crisis on their...",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "procure-bakery-ingredient-online-india",
+      "slug": "procure-bakery-ingredient-online-india",
+      "title": "India's First B2B Portal for Professional Bakers & Chefs",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Now-Procure-Bakery-Ingredients-Online---For-Professioanal-Chef-Bakers.png",
+      "published_at": "2020-05-16",
+      "excerpt": "SwissBake empowers customers with personalization, allowing chefs and bakers to efficiently browse, learn, manage, and order products, improving...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "covid-19-impact",
+      "slug": "covid-19-impact",
+      "title": "COVID-19 IMPACT | Updates for Customers",
+      "image_url": "https://b2b.swissbake.in/images/Blog/COVID-19-IMPACT-Updates-for-Customers.png",
+      "published_at": "2020-03-25",
+      "excerpt": "In an attempt to control the spread of COVID-19, various states in India are under a lockdown. As a result of this, SwissBake office in Mumbai will...",
+      "categories": [],
+      "body": null
+    },
+    {
+      "id": "challenges-in-baking-gluten-free-confectionery-products",
+      "slug": "challenges-in-baking-gluten-free-confectionery-products",
+      "title": "6 Challenges in Baking Gluten Free Confectionery Products",
+      "image_url": "https://b2b.swissbake.in/images/Blog/6%20Challenges%20in%20Baking%20Gluten%20Free%20Confectionery%20Products.jpg",
+      "published_at": "2020-03-17",
+      "excerpt": "Gluten free products are only demanded by consumers who are gluten intolerant. Here are few of the key challenges faced by bakers who wish to bake...",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "are-you-using-sourdough-in-your-pizza",
+      "slug": "are-you-using-sourdough-in-your-pizza",
+      "title": "Are you using sourdough in your Pizza?",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Are%20you%20using%20sourdough%20in%20your%20Pizza.jpg",
+      "published_at": "2019-12-16",
+      "excerpt": "Sourdough starter is basically a fermented mixture of flour, water and different strains of culture and wild yeast, completely nature derived.",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "a-unique-waffle-to-celebrate-this-holiday-season",
+      "slug": "a-unique-waffle-to-celebrate-this-holiday-season",
+      "title": "A unique waffle to celebrate this holiday season",
+      "image_url": "https://b2b.swissbake.in/images/Blog/A%20unique%20waffle%20to%20celebrate%20this%20holiday%20season.jpg",
+      "published_at": "2019-11-21",
+      "excerpt": "Celebrate the holidays with a unique waffle recipe featuring festive flavors! Perfect for brunch or dessert, delight your guests this season",
+      "categories": [],
+      "body": null
+    },
+    {
+      "id": "boost-your-sales-by-adding-plumcakes-in-your-festive-offerings",
+      "slug": "boost-your-sales-by-adding-plumcakes-in-your-festive-offerings",
+      "title": "Boost your sales by adding plum cakes in your festive offerings",
+      "image_url": "https://b2b.swissbake.in/images/Blog/BOOST%20YOUR%20SALES%20BY%20ADDING%20PLUM%20CAKES%20IN%20YOUR%20FESTIVE%20OFFERINGS.jpg",
+      "published_at": "2019-10-30",
+      "excerpt": "With the festive season of 2019 just around the corner, it is known that plum cakes are one of the key products that will help boost sales and make...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "experience-the-swiss-passion-for-baking",
+      "slug": "experience-the-swiss-passion-for-baking",
+      "title": "Swiss Passion for Baking | Elevating Baking Excellence Worldwide",
+      "image_url": "https://b2b.swissbake.in/images/Blog/SWISS%20PASSION%20FOR%20BAKING.jpg",
+      "published_at": "2019-10-22",
+      "excerpt": "Swiss baking heritage is rich and diverse, with over 200 varieties of bread integral to its culture, showcasing passion, hospitality, and culinary...",
+      "categories": [
+        "featured"
+      ],
+      "body": null
+    },
+    {
+      "id": "factors-influencing-the-oven-spring-of-your-bread",
+      "slug": "factors-influencing-the-oven-spring-of-your-bread",
+      "title": "Factors Influencing The Oven Spring Of Your Bread",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Factors%20Influencing%20The%20Oven%20Spring%20Of%20Your%20Bread.jpg",
+      "published_at": "2019-10-17",
+      "excerpt": "Oven spring is nothing more than the final rise of the dough in the oven during the process of baking. It is one of the critical factors considered...",
+      "categories": [
+        "inspiration"
+      ],
+      "body": null
+    },
+    {
+      "id": "boost-your-bakery-sales-by-selling-online",
+      "slug": "boost-your-bakery-sales-by-selling-online",
+      "title": "Boost your Bakery sales by selling online",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Boost%20your%20Bakery%20sales%20by%20selling%20online.jpg",
+      "published_at": "2018-12-16",
+      "excerpt": "Boost bakery sales by selling online! Discover strategies to enhance your online presence and attract new customers in the digital market",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "increasing-demand-of-gluten-free-baked-products",
+      "slug": "increasing-demand-of-gluten-free-baked-products",
+      "title": "Increasing Demand Of Gluten Free Baked Products",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Increasing%20Demand%20Of%20Gluten%20Free%20Baked%20Products.jpg",
+      "published_at": "2017-07-04",
+      "excerpt": "There is an sustainable increase in demand for the gluten free baked products, read more to find out Why?",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "importance-of-regulating-the-dough-temp-during-baking",
+      "slug": "importance-of-regulating-the-dough-temp-during-baking",
+      "title": "Importance Of Regulating The Dough Temperature During Baking",
+      "image_url": "https://b2b.swissbake.in/images/Blog/mportance%20Of%20Regulating%20The%20Dough%20Temperature%20During%20Baking.jpg",
+      "published_at": "2017-07-10",
+      "excerpt": "The scientific importance of dough temperature and how to get the dough temperature right every time by using crushed ice. Read more to find out......",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "the-french-croissant-origin-recipe-method",
+      "slug": "the-french-croissant-origin-recipe-method",
+      "title": "\"The French Croissant\" - Origin, Recipe and Method",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Croissant.jpg",
+      "published_at": "2016-07-24",
+      "excerpt": "The \"French Croissant\" is a buttery, flaky pastry well known for its unique crescent shape. The story of its origin is certainly worth reading.",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "role-of-salt-in-bread-baking",
+      "slug": "role-of-salt-in-bread-baking",
+      "title": "Role of Salt in Bread Baking: Impact on Flavor, Texture, & More",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Role%20Of%20Salt%20In%20Bread%20Baking.jpg",
+      "published_at": "2017-07-29",
+      "excerpt": "The role of salt in bread baking and its influence to the whole process of bread baking. Read more....",
+      "categories": [
+        "featured"
+      ],
+      "body": null
+    },
+    {
+      "id": "bread-staling-concept-process-and-factors-influencing-it",
+      "slug": "bread-staling-concept-process-and-factors-influencing-it",
+      "title": "Bread Staling - Concept, Process And Factors Influencing It",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Bread-Staling---Concept-Process-And-Factors-Influencing-It.jpg",
+      "published_at": "2014-09-09",
+      "excerpt": "Learn about bread staling, the changes that reduce freshness and quality over time. Discover the process, factors involved, and tips to slow down...",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "churros-the-future-trend",
+      "slug": "churros-the-future-trend",
+      "title": "The Future of Churros: A Delicious Transformation",
+      "image_url": "https://b2b.swissbake.in/images/Blog/churros.jpg",
+      "published_at": "2018-10-19",
+      "excerpt": "Traditionally churros are fried dough pastries showered with powdered sugar and cinnamon. Find out how churros has evolved from the humble street...",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "pancakes-from-the-breakfast-table-to-qsr",
+      "slug": "pancakes-from-the-breakfast-table-to-qsr",
+      "title": "Pancakes - From The Breakfast Table To QSR",
+      "image_url": "https://b2b.swissbake.in/images/Blog/pancake.jpg",
+      "published_at": "2018-10-26",
+      "excerpt": "Transform pancakes from breakfast to QSR favorites! Explore creative recipes and serving ideas to elevate your pancake offerings all day long",
+      "categories": [
+        "inspiration"
+      ],
+      "body": null
+    },
+    {
+      "id": "4-health-benefits-of-pumpernickel-bread-you-must-know",
+      "slug": "4-health-benefits-of-pumpernickel-bread-you-must-know",
+      "title": "4 Health Benefits of Pumpernickel Bread You Must Know",
+      "image_url": "https://b2b.swissbake.in/images/Blog/PUMPERNICEKE.jpg",
+      "published_at": "2018-11-10",
+      "excerpt": "German Pumpernickel bread is slightly sweet, coarse and heavy rye bread made from soaked cracked rye grain & using rye sourdough starter. It is one...",
+      "categories": [
+        "advice"
+      ],
+      "body": null
+    },
+    {
+      "id": "rye-a-powerhouse-grain-with-excellent-flavour-profile",
+      "slug": "rye-a-powerhouse-grain-with-excellent-flavour-profile",
+      "title": "Rye : A powerhouse grain with excellent flavour profile",
+      "image_url": "https://b2b.swissbake.in/images/Blog/%27Rye%27%20traditionally%20cultivated%20in%20Europe%20is%20closely%20related%20to%20wheat%20and%20barley.%20Loaded%20with%20outstanding%20health%20benefits%20as%20well%20as%20an%20excellent%20flavo.jpg",
+      "published_at": "2019-01-17",
+      "excerpt": "Discover rye, a traditional European grain rich in health benefits and flavor. Learn about its close relation to wheat and barley, and its culinary...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "the-donut-dessert-with-a-past-and-future",
+      "slug": "the-donut-dessert-with-a-past-and-future",
+      "title": "The Donut - A Dessert with a Past and Future",
+      "image_url": "https://b2b.swissbake.in/images/Blog/The-Donut-A-Dessert-with-a-Past-and-Future.jpg",
+      "published_at": "2019-02-22",
+      "excerpt": "The donut: a beloved dessert with a rich history and a bright future! Explore its evolution, from classic recipes to modern twists that delight all...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "3-creative-products-made-using-brownie-waffle-mix",
+      "slug": "3-creative-products-made-using-brownie-waffle-mix",
+      "title": "3 Creative products made using Brownie waffle mix",
+      "image_url": "https://b2b.swissbake.in/images/Blog/3%20Creative%20products%20made%20using%20Brownie%20waffle%20mix.jpg",
+      "published_at": "2018-02-22",
+      "excerpt": "Discover 3 creative delights made with brownie waffle mix! Enjoy decadent brownie sundaes, rich waffle cakes, and scrumptious bites to satisfy your...",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    },
+    {
+      "id": "serving-the-growing-demand-for-vegetarian-bakery-foods",
+      "slug": "serving-the-growing-demand-for-vegetarian-bakery-foods",
+      "title": "Serving the growing demand for vegetarian bakery foods",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Serving%20the%20growing%20demand%20for%20vegetarian%20bakery%20foods.jpg",
+      "published_at": "2019-03-07",
+      "excerpt": "We live in a country where religious values are interwoven into the fabric of everyday life and being vegetarian is one of those ethics that is at...",
+      "categories": [
+        "insights"
+      ],
+      "body": null
+    },
+    {
+      "id": "aroma-tic-bake-your-imagination-with-a-gently-dried-sourdough-starter",
+      "slug": "aroma-tic-bake-your-imagination-with-a-gently-dried-sourdough-starter",
+      "title": "Aroma-tic - Bake Your Imagination with a gently dried sourdough",
+      "image_url": "https://b2b.swissbake.in/images/Blog/Aroma-tic%20-%20Bake%20Your%20Imagination%20with%20a%20gently%20dried%20sourdough.jpg",
+      "published_at": "2017-10-04",
+      "excerpt": "Aroma-tic, a one-of-a-kind bakery solution, is a dry active sourdough starter that can be used in a variety of breads to enhance their taste, flavour...",
+      "categories": [
+        "trends"
+      ],
+      "body": null
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "brand": {
+    "name": "SwissBake",
+    "logo_url": "https://www.swissbake.in/Content/images/logo/swissbake-logo.jpg",
+    "footer_description": "Finest quality Swiss formulated bakery ingredients and convenience products researched & developed in collaboration with professional chefs & bakers around the globe.",
+    "copyright": "©Copyright 2012-2026 Swiss Bake Ingredients Pvt. Ltd. All Rights Reserved."
+  },
+  "seo": {
+    "site_name": "SwissBake",
+    "title": "SwissBake | Swiss Quality Bakery Ingredients",
+    "description": "Our focus is on developing, manufacturing and marketing the finest Swiss quality bakery ingredients and convenience products across Asia, Middle East, Africa and Europe.",
+    "og_image_url": "https://www.swissbake.in/Content/images/logo/swissbake-logo.jpg",
+    "favicon_url": "https://www.swissbake.in/Content/images/icons/favicon/Snew.jpeg"
+  },
+  "contact": {
+    "order_phone": "+91 022 3529 3529",
+    "order_phone_tel": "+912235293529",
+    "support_phone": "+91 744 733 1888",
+    "support_whatsapp": "917447331888",
+    "floating_whatsapp_number": "919892053259",
+    "floating_whatsapp_message": "Grüezi! I was browsing the SwissBake® website and would love to know more about your products.",
+    "email_us_url": "/contactUs",
+    "catalog_url": "/brochure.pdf"
+  },
+  "top_bar": {
+    "catalog_label": "COMPANY CATALOG",
+    "order_label": "ORDER",
+    "email_label": "EMAIL US",
+    "sign_in_label": "SIGN-IN",
+    "sign_in_url": "/login"
+  },
+  "search": {
+    "placeholder": "Search for baking products now",
+    "action_url": "/category"
+  },
+  "header_buttons": [
+    { "label": "Shop Now", "url": "/category", "variant": "primary" },
+    { "label": "Contact Us", "url": "/contactUs", "variant": "outline" }
+  ],
+  "main_nav": [
+    { "label": "Home", "url": "/" },
+    { "label": "About", "url": "/about" },
+    {
+      "label": "Product",
+      "url": "/category",
+      "mega_menu": {
+        "columns": [
+          [
+            { "label": "HIGH-FIBRE BREADS", "url": "/category/high-fiber-bread-mix" },
+            { "label": "SOURDOUGHS", "url": "/category/sourdough-bread-ingredients" },
+            { "label": "MULTIGRAIN BREADS", "url": "/category/multigrain-bread-mix" },
+            { "label": "GERMAN RYE BREADS", "url": "/category/german-rye-bread-mix" }
+          ],
+          [
+            { "label": "BAGUETTES", "url": "/category/french-baguette-mixes" },
+            { "label": "SPECIALITY BREADS", "url": "/category/specialty-bakery-bread-mix" },
+            { "label": "MORNING SOFT BREADS", "url": "/category/morning-soft-bread-mix" },
+            { "label": "HEALTH & WELLNESS BREADS", "url": "/category/healthy-bread-mix" }
+          ],
+          [
+            { "label": "PIZZA INGREDIENTS", "url": "/category/pizza-baking-ingredients" },
+            { "label": "BREAD DECORS", "url": "/category/bread-decoration-supplier" },
+            { "label": "IMPROVERS & CONCENTRATES", "url": "/category/bread-improvers-and-conditioners" },
+            { "label": "SPECIALITY FLOURS", "url": "/category/swissbake-flour" }
+          ],
+          [
+            { "label": "CONFECTIONERY MIXES", "url": "/category/natural-confectionery-mixes" },
+            { "label": "GLUTEN FREE RANGE", "url": "/category/gluten-free-baking-mixes" },
+            { "label": "CREAMS AND CUSTARDS", "url": "/category/custard-cream-mix" },
+            { "label": "CAKE ESSENTIALS", "url": "/category/imported-cake-baking-essentials" }
+          ],
+          [
+            { "label": "VEGETARIAN CONFECTIONERY", "url": "/category/egg-free-confectionery-mixes" },
+            { "label": "BAKING POWDERS", "url": "/category/baking-powder-manufacturer-supplier-india" }
+          ]
+        ],
+        "view_all": { "label": "View All Categories", "url": "/category" }
+      }
+    },
+    { "label": "Applications", "url": "/solution" },
+    { "label": "Recipe", "url": "/recipe" },
+    { "label": "Blog", "url": "/blogcategory/all" },
+    { "label": "Baker Support", "url": "/bakersupport" },
+    { "label": "Faq", "url": "/faq" },
+    { "label": "Global", "url": "https://swissbake.ch", "external": true }
+  ],
+  "guest_menu": {
+    "existing_customers_title": "Existing Customers",
+    "login": { "label": "Login Now", "url": "/login" },
+    "new_customers_title": "New to swissbake?",
+    "register": { "label": "Create Account", "url": "/register" }
+  },
+  "account_menu": {
+    "title": "Manage Your Account",
+    "items": [
+      { "label": "Dashboard", "url": "/account/index" },
+      { "label": "Quick Order", "url": "/account/quickorder" },
+      {
+        "label": "Account Settings",
+        "children": [
+          { "label": "MY COMPANY DETAILS", "url": "/account/myprofile" },
+          { "label": "Shipping Address", "url": "/account/address" },
+          { "label": "Document Proof Or KYC", "url": "/account/Kyc" }
+        ]
+      },
+      {
+        "label": "Manage Order",
+        "children": [
+          { "label": "ALL ORDERS", "url": "/account/myorder" },
+          { "label": "CANCELLED ORDERS", "url": "/account/cancelorder" },
+          { "label": "PENDING ORDERS", "url": "/account/pendingorder" },
+          { "label": "COMPLETED ORDERS", "url": "/account/completedorder" },
+          { "label": "RE-ORDERS", "url": "/account/reorder" }
+        ]
+      },
+      {
+        "label": "Manage Invoice",
+        "children": [
+          { "label": "ALL INVOICES", "url": "/account/invoice" },
+          { "label": "CANCELLED INVOICE", "url": "/account/cancelinvoice" },
+          { "label": "PENDING INVOICE", "url": "/account/pendinginvoice" },
+          { "label": "DISPATCHED INVOICE", "url": "/account/dispatchinvoice" },
+          { "label": "DELIVERED INVOICE", "url": "/account/deliveredinvoice" }
+        ]
+      },
+      { "label": "PAYMENT HISTORY", "url": "/account/mypayment" },
+      {
+        "label": "ONLINE SUPPORT",
+        "children": [
+          { "label": "General Support", "url": "/account/gensupport" },
+          { "label": "feedback or Complaint", "url": "/account/feedback" },
+          { "label": "Support History", "url": "/account/casehistory" }
+        ]
+      }
+    ]
+  },
+  "cart": {
+    "title": "CART",
+    "empty_message": "Your cart is empty. Please click the link to add Product",
+    "empty_link": { "label": "(View Product)", "url": "/category" },
+    "grand_total_label": "Grand Total",
+    "checkout_label": "Checkout",
+    "checkout_url": "/checkout",
+    "items": []
+  },
+  "footer": {
+    "newsletter_label": "NEWSLETTER",
+    "newsletter_placeholder": "Enter your email",
+    "newsletter_button": "Subscribe",
+    "columns": [
+      {
+        "title": "Usage Conditions",
+        "links": [
+          { "label": "Privacy Policy", "url": "/privacy-policy" },
+          { "label": "Terms Of Use", "url": "/terms-of-use" },
+          { "label": "Shipping Policy", "url": "/shipping-policy" }
+        ]
+      },
+      {
+        "title": "Quick Links",
+        "links": [
+          { "label": "About", "url": "/about" },
+          { "label": "Blog", "url": "/blogcategory/all" },
+          { "label": "Contact us", "url": "/contactUs" }
+        ]
+      },
+      {
+        "title": "Company Service",
+        "links": [
+          { "label": "Product Brochure", "url": "/brochure.pdf" },
+          { "label": "Support", "url": "/bakersupport" },
+          { "label": "Shop Now", "url": "/category" }
+        ]
+      }
+    ],
+    "social_title": "Follow SwissBake®",
+    "social": [
+      { "network": "facebook", "url": "https://www.facebook.com/SwissBakeGlobal/" },
+      { "network": "instagram", "url": "https://www.instagram.com/swissbake.global/" },
+      { "network": "twitter", "url": "https://twitter.com/SwissBakeGlobal/" },
+      { "network": "linkedin", "url": "https://www.linkedin.com/company/swiss-bake-ingredients-pvt-ltd" },
+      { "network": "youtube", "url": "https://www.youtube.com/channel/UCrbRanf0JTsYiqXZTaltUVA" },
+      { "network": "pinterest", "url": "https://in.pinterest.com/swissbake/" }
+    ],
+    "payment_icons": [
+      { "name": "american-express", "image_url": "https://www.swissbake.in/Content/images/icons/american-express.png" },
+      { "name": "discover", "image_url": "https://www.swissbake.in/Content/images/icons/discover.png" },
+      { "name": "mastercard", "image_url": "https://www.swissbake.in/Content/images/icons/mastercard.png" },
+      { "name": "paypal", "image_url": "https://www.swissbake.in/Content/images/icons/paypal.png" },
+      { "name": "visa", "image_url": "https://www.swissbake.in/Content/images/icons/visa.png" }
+    ]
+  }
+}

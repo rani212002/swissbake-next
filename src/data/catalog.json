@@ -1,0 +1,353 @@
+{
+  "category_page": {
+    "title": "PRODUCT CATEGORIES",
+    "subtitle": "Browse through our wide range of bakery ingredients and solutions.",
+    "seo_title": "Bakery Ingredients in India | Bakery Ingredients Manufacturer in India",
+    "seo_description": "We are the Manufacturer of Bakery Ingredients in India | Browse through extensive range of bakery ingredients by SwissBake",
+    "sidebar_title": "Shop Categories",
+    "empty_products": "Products for this category load from the products API."
+  },
+  "solution_page": {
+    "title": "APPLICATION & SERVICES",
+    "subtitle": "Selected grouping of products based on a common application or purpose."
+  },
+  "categories": [
+    {
+      "id": "swissbake-flour",
+      "slug": "swissbake-flour",
+      "name": "SPECIALTY FLOURS",
+      "seo_title": "Artisan Flour for Professional Bakeries | Swissbake®",
+      "seo_description": "Discover artisan flour by Swissbake® for professional baking. Our bakery flour delivers consistent results in every bake, ideal for bakeries and foodservice. Shop Now!",
+      "intro": "Range of well-crafted flours for a wide range of bakery application milled by artisan millers in traditional mills using the finest quality of grains sourced from German, France and other countries.",
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "german-rye-bread-mix",
+      "slug": "german-rye-bread-mix",
+      "name": "GERMAN RYE BREADS",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "sourdough-bread-ingredients",
+      "slug": "sourdough-bread-ingredients",
+      "name": "SOURDOUGH INGREDIENTS",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "high-fiber-bread-mix",
+      "slug": "high-fiber-bread-mix",
+      "name": "HIGH-FIBRE BREADS",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "pizza-baking-ingredients",
+      "slug": "pizza-baking-ingredients",
+      "name": "PIZZA INGREDIENTS",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "healthy-bread-mix",
+      "slug": "healthy-bread-mix",
+      "name": "HEALTH & WELLNESS BREADS",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "specialty-bakery-bread-mix",
+      "slug": "specialty-bakery-bread-mix",
+      "name": "SPECIALITY BREADS",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "morning-soft-bread-mix",
+      "slug": "morning-soft-bread-mix",
+      "name": "MORNING SOFT BREADS",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "multigrain-bread-mix",
+      "slug": "multigrain-bread-mix",
+      "name": "MULTIGRAIN BREADS",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "bread-improvers-and-conditioners",
+      "slug": "bread-improvers-and-conditioners",
+      "name": "IMPROVERS & CONCENTRATES",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "gluten-free-baking-mixes",
+      "slug": "gluten-free-baking-mixes",
+      "name": "GLUTEN FREE RANGE",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "natural-confectionery-mixes",
+      "slug": "natural-confectionery-mixes",
+      "name": "CONFECTIONERY MIXES",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "frappe-mixes",
+      "slug": "frappe-mixes",
+      "name": "FRAPPE MIXES",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "custard-cream-mix",
+      "slug": "custard-cream-mix",
+      "name": "CREAMS AND CUSTARDS",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "imported-cake-baking-essentials",
+      "slug": "imported-cake-baking-essentials",
+      "name": "CAKE ESSENTIALS",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "cookie-mixes",
+      "slug": "cookie-mixes",
+      "name": "COOKIE MIXES",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "egg-free-confectionery-mixes",
+      "slug": "egg-free-confectionery-mixes",
+      "name": "VEGETARIAN CONFECTIONERY",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "french-baguette-mixes",
+      "slug": "french-baguette-mixes",
+      "name": "BAGUETTES",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "bread-decoration-supplier",
+      "slug": "bread-decoration-supplier",
+      "name": "BREAD DECORS",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "baking-powder-manufacturer-supplier-india",
+      "slug": "baking-powder-manufacturer-supplier-india",
+      "name": "BAKING POWDERS",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "cake-glazes",
+      "slug": "cake-glazes",
+      "name": "CAKE GLAZES & JELLIES",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "egg-free-cake-concentrate",
+      "slug": "egg-free-cake-concentrate",
+      "name": "CAKE & SPONGE CONCENTRATES",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    },
+    {
+      "id": "bakery-preservatives",
+      "slug": "bakery-preservatives",
+      "name": "PRESERVATIVES",
+      "seo_title": null,
+      "seo_description": null,
+      "intro": null,
+      "image_url": null,
+      "products": []
+    }
+  ],
+  "solutions": [
+    {
+      "id": "festive-baking-mixes",
+      "slug": "festive-baking-mixes",
+      "name": "FESTIVE BAKING",
+      "image_url": "https://b2b.swissbake.in/images/ProdCategory/FESTIVE-OFFERINGS070620021623.png",
+      "intro": "Discover premium baking ingredients for festive treats! Elevate your holiday baking with our curated selection of fine-quality ingredients"
+    },
+    {
+      "id": "for-industrial-baking",
+      "slug": "for-industrial-baking",
+      "name": "FOR INDUSTRIAL BAKING",
+      "image_url": null,
+      "intro": null
+    },
+    {
+      "id": "for-frozen-dough",
+      "slug": "for-frozen-dough",
+      "name": "FOR FROZEN DOUGH",
+      "image_url": null,
+      "intro": null
+    },
+    {
+      "id": "for-fine-dining",
+      "slug": "for-fine-dining",
+      "name": "FOR FINE DINING",
+      "image_url": null,
+      "intro": null
+    },
+    {
+      "id": "for-pizzerias",
+      "slug": "for-pizzerias",
+      "name": "FOR PIZZERIAS",
+      "image_url": "https://b2b.swissbake.in/images/ProdCategory/FOR-PIZZERIAS070620022520.png",
+      "intro": "Explore our improvers, premixes, and flours for pizzerias and restaurants! Elevate your artisan pizzas and enhance the customer experience"
+    },
+    {
+      "id": "for-cafes-and-restaurants",
+      "slug": "for-cafes-and-restaurants",
+      "name": "FOR CAFES & RESTAURANTS",
+      "image_url": null,
+      "intro": null
+    },
+    {
+      "id": "for-patissiers",
+      "slug": "for-patissiers",
+      "name": "FOR PATISSIERS",
+      "image_url": "https://b2b.swissbake.in/images/ProdCategory/FOR-PATISSIERS111124114641.jpg",
+      "intro": "Discover essential products for patisserie bakers! From premium mixes to top-tier baking tools, ensure perfect pastries, desserts, & confections every time"
+    },
+    {
+      "id": "waffle-premix",
+      "slug": "waffle-premix",
+      "name": "WAFFLE PREMIX",
+      "image_url": null,
+      "intro": null
+    },
+    {
+      "id": "cake-premix",
+      "slug": "cake-premix",
+      "name": "CAKE PREMIX",
+      "image_url": null,
+      "intro": null
+    },
+    {
+      "id": "bread-premix",
+      "slug": "bread-premix",
+      "name": "BREAD PREMIX",
+      "image_url": null,
+      "intro": null
+    },
+    {
+      "id": "bakery-premix",
+      "slug": "bakery-premix",
+      "name": "BAKERY PREMIX",
+      "image_url": null,
+      "intro": "SwissBake® a brand synonymous to premium innovative bakery solutions and bakery ingredients tailored to meet the demands of professional bakers globally. Our extensive range of bakery premixes, bakery mixes and bakery ingredients are designed with precision and expertise for ease of convenience and consistency."
+    },
+    {
+      "id": "vanilla-cake-premix",
+      "slug": "vanilla-cake-premix",
+      "name": "VANILLA CAKE PREMIX",
+      "image_url": null,
+      "intro": null
+    },
+    {
+      "id": "chocolate-cake-premix",
+      "slug": "chocolate-cake-premix",
+      "name": "CHOCOLATE CAKE PREMIX",
+      "image_url": null,
+      "intro": null
+    },
+    {
+      "id": "donut-premix",
+      "slug": "donut-premix",
+      "name": "DONUT PREMIX",
+      "image_url": null,
+      "intro": null
+    },
+    {
+      "id": "brownie-mix",
+      "slug": "brownie-mix",
+      "name": "BROWNIE MIX",
+      "image_url": null,
+      "intro": null
+    }
+  ]
+}
